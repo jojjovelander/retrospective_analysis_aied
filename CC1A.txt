@@ -1,0 +1,756 @@
+
+ABSTRACT: OBJECTIVE: To examine the effect of antigen stimulation on induction of the heat shock protein 70(HSP70) in the guinea pig cochlea and to explore the role of HSP70 and its autoantibody in the pathogenesis and diagnosis of autoimmunize inner ear disease (AIED). METHODS: To establish the animal model of AIED, homologous crude inner ear antigen was used to immunize the guinea pig. The expression of HSP70 was detected by immunocytochemistry and the relative staining densities were quantified with a light microscope image analysis system. The autoantibodies against HSP71 in the plasma of animals were tested by Western blot using purified recombinant human HSP71 as antigen. RESULTS: HSP70 presented in the normal guinea pig cochlea at a lower level. After immunological challenge, the levels of HSP70 immunoreactivity in the immunized animals were significantly increased as compared with control animals. Optical densities of cochleae of immunized animals were significantly greater than those of animals in the control group (P < 0.01). Most of the immunized animals had developed autoantibodies against HSP71. The incidence of autoantibody in the experimental group was significantly different (P < 0.01) from the control group. CONCLUSION: Antigen stimulation could lead to an increase in the synthesis of HSP70 in the guinea pig cochlea. The detection of autoantibody against HSP71 might have significance in the diagnosis of AIED.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Forbus, K.D., Whalley, P.B., Everett, J.O., Ureel, L., Brokowski, M., Baher, J., Kuehne, S.E.
+7003585370;57220347505;7102558429;57637185400;6602723422;6507836712;6601928038;
+CyclePad: An articulate virtual laboratory for engineering thermodynamics
+(1999) Artificial Intelligence, 114 (1-2), pp. 297-347. Cited 69 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0012258965&doi=10.1016%2fs0004-3702%2899%2900080-6&partnerID=40&md5=4dc7f0b07e6b92c3d4ce8c48c5ba0368
+
+DOI: 10.1016/s0004-3702(99)00080-6
+ABSTRACT: One of the original motivations for research in qualitative physics was the development of intelligent tutoring systems and learning environments for physical domains and complex systems. This article demonstrates how a synergistic combination of qualitative reasoning and other AI techniques can be used to create an intelligent learning environment for students learning to analyze and design thermodynamic cycles. Pedagogically this problem is important because thermodynamic cycles express the key properties of systems which interconvert work and heat, such as power plants, propulsion systems, refrigerators, and heat pumps, and the study of thermodynamic cycles occupies a major portion of an engineering student's training in thermodynamics. This article describes CyclePad, a fully implemented articulate virtual laboratory that captures a substantial fraction of the knowledge in an introductory thermodynamics textbook and provides explanations of calculations and coaching support for students who are learning the principles of such cycles. CyclePad employs a distributed coaching model, where a combination of on-board facilities and a server-based coach accessed via email provide help for students, using a combination of teleological and case-based reasoning. CyclePad is a fielded system, in routine use in classrooms scattered all over the world. We analyze the combination of ideas that made CyclePad possible and comment on some lessons learned about the utility of various AI techniques based on our experience in fielding CyclePad. © 1999 Elsevier Science B.V. All rights reserved.
+AUTHOR KEYWORDS: AI and education;  Case-based coaching;  Compositional modeling;  Engineering thermodynamics;  Functional reasoning;  Intelligent learning environments;  Qualitative reasoning;  Virtual laboratories
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Bronze
+SOURCE: Scopus
+
+Du Boulay, B.
+6602083684;
+What does the "AI" in AIED buy?
+(1998) IEE Colloquium (Digest), (313), pp. 3/1-3/4. Cited 3 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0031621314&partnerID=40&md5=2c904aa88f3c42096a6e665a0014517f
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Devedzic, V., Radovic, D., Jerinic, L.
+55902918300;55325097900;6505805699;
+On the notion of components for intelligent tutoring systems
+(1998) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 1452, pp. 504-513. Cited 4 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84957046538&doi=10.1007%2f3-540-68716-5_56&partnerID=40&md5=42068af0a76f120dda564f6bf9dda48a
+
+DOI: 10.1007/3-540-68716-5_56
+ABSTRACT: The concept of software components has received relatively little attention so far by the researchers in the field of AIED. This paper is an attempt to bring more light on this important concept and to describe the benefits that component-based ITSs can bring to the field. Surprisingly enough, there is still no consensus on the notion of component among AIED researchers. There are many open questions and unclear issues. By carefully structuring the description of software components in general, as well as by showing some examples of components for ITS design, the paper presents several important related issues, like functionality of components, their granularity, generality, interoperability, and reusability. Special attention is given to the architectural and communication considerations, as well as to the relation between components and ontologies for ITS design. © Springer-Verlag Berlin Heidelberg 1998.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Lillehaug, S.-I., Lajoie, S.
+6506070151;6602435220;
+Health care workers and their needs: The forgotten shadow of AIM research
+(1998) Studies in Health Technology and Informatics, 52, pp. 1232-1236.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84887787394&doi=10.3233%2f978-1-60750-896-0-1232&partnerID=40&md5=3f55c26f082a2b086ed7644c30fee4ad
+
+DOI: 10.3233/978-1-60750-896-0-1232
+ABSTRACT: The field of AI in Medicine (AIM) seems to have accepted that decision support is, and will be, needed within most medical domains. As society calls for cost-effectiveness, and human expertise or expert guidance are not always available, decision support systems (DSSs) are proposed as the solutions. These solutions, however, do not necessarily correspond with the basic needs of their targeted users. We will show this through a review of the literature related to health care workers and the various factors that have an influence on their performances. Furthermore, we will use these empirical findings to argue that the AIM community must go beyond its decision support philosophy, whereby the gaps in human expertise are filled in by the computer. In the future, joint emphasis must be placed on decision support and the promotion towards independent and self-sufficient problem solving. In order to implement this paradigm change, the AIM community will have to incorporate findings from the research discipline of AI in Education. © 1998 IMIA. All rights reserved.
+AUTHOR KEYWORDS: AI in Medicine;  Decision support systems;  Empowering health care personnel;  Medical education
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Cumming, G.
+7102080914;
+Artificial intelligence in education: An exploration
+(1998) Journal of Computer Assisted Learning, 14 (4), pp. 251-259. Cited 9 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0032357957&doi=10.1046%2fj.1365-2729.1998.1440251.x&partnerID=40&md5=41a34a5c86d4090b40f82514392e6c44
+
+DOI: 10.1046/j.1365-2729.1998.1440251.x
+ABSTRACT: The research field of Artificial Intelligence in Education (AIED) embraces a wide diversity of research interests. Psychology, education and cognitive science are strongly represented, alongside computer science and artificial intelligence. A key interest is in modelling, especially of learning processes and cognition. This paper gives a brief outline of the development of AIED, and examples of current issues and projects. The 'AI' in the title may give a misleading picture of a research field that is in fact dynamic and broad, with many links to the classroom.
+AUTHOR KEYWORDS: Artificial intelligence;  Cognition;  Learner modelling;  Learning environment;  Situated learning
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Lillehaug, S.-I., Lajoie, S.P.
+6506070151;6602435220;
+AI in medical education - Another grand challenge for medical informatics
+(1998) Artificial Intelligence in Medicine, 12 (3), pp. 197-225. Cited 28 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0032033094&doi=10.1016%2fS0933-3657%2897%2900054-7&partnerID=40&md5=40491e1b20954bf4d440480c3cf9579d
+
+DOI: 10.1016/S0933-3657(97)00054-7
+ABSTRACT: The potential benefits of artificial intelligence in medicine (AIM) were never realized as anticipated. This paper addresses ways in which such potential can be achieved. Recent discussions of this topic have proposed a stronger integration between AIM applications and health information systems, and emphasize computer guidelines to support the new health care paradigms of evidence-based medicine and cost-effectiveness. These proposals, however, promote the initial definition of AIM applications as being AI systems that can perform or aid in diagnoses. We challenge this traditional philosophy of AIM and propose a new approach aiming at empowering health care workers to become independent self-sufficient problem solvers and decision makers. Our philosophy is based on findings from a review of empirical research that examines the relationship between the health care personnel's level of knowledge and skills, their job satisfaction, and the quality of the health care they provide. This review supports addressing the quality of health care by empowering health care workers to reach their full potential. As an aid in this empowerment process we argue for reviving a long forgotten AIM research area, namely, AI based applications for medical education and training. There is a growing body of research in artificial intelligence in education that demonstrates that the use of artificial intelligence can enhance learning in numerous domains. By examining the strengths of these educational applications and the results from previous AIM research we derive a framework for empowering medical personnel and consequently raising the quality of health care through the use of advanced AI based technology.
+Several ways in which the potential benefits of artificial intelligence in medicine (AIM) can be achieved are discussed. The quality of the health care is addressed by empowering health care workers to reach their full potential. As an aid in this empowerment process, an AIM research, AI based applications for medical education and training is revived. By examining the strengths of these educational applications and the results from previous AIM research, a framework for empowering medical personnel and consequently raising the quality of health care through the use of advanced AI based technology is derived.
+AUTHOR KEYWORDS: AI in medical education;  AI in medicine research;  Cognitive apprenticeship;  Cognitive task analysis;  Computers in medical education;  Medical cognition;  Situated learning
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Green
+SOURCE: Scopus
+
+Cardini, F., Zantedeschi, E., Pomponi, G., Bossi, A., Signorelli, C.
+36726518600;6603675112;6507420574;26642896400;7005736295;
+AIDS: knowledge, attitudes and sex behavior of young people attending AIED family planning health services [AIDS: conoscenze, attitudini e comportamenti sessuali di giovani utenti dei consultori familiari AIED.]
+(1998) Annali di igiene : medicina preventiva e di comunità, 10 (2), pp. 85-93. Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0032012488&partnerID=40&md5=4ac307c0edcfb111719b5983ecbd4410
+
+ABSTRACT: A research group of the G. Sanarelli Institute of La Sapienza University, Rome, Italy, conducted a survey on the knowledge, attitudes, and sexual behavior of young people at 14 family planning counseling centers of the Italian Association of Demographic Education (AIED). Data were collected by means of an anonymous, self-administered questionnaire containing 70 questions during the 12-month period from March 1, 1995 to February 29, 1996. Respondents were 19-24 years old. The purpose was to gain information about AIDS-related risk behavior. A total of 1085 questionnaires were collected representing the views of 978 women (90.1%) and 107 men (9.9%) with an average age of 21.9 years for the women and 21.7 years for the men. For 84% of the females and 78% of males, the source of information about AIDS was television; for 61% of males and 59% of females it was daily newspapers; and only 33% of men and 40% of women obtained such information from school. The average score of accurate knowledge about the transmission of HIV was 78% vs. 75.6% of a national sample. The respondents were more sexually active than the subjects of the national sample. 96% of males and 91% of females had experienced sexual intercourse; the average age of sexual debut was 17.7 years for males and 18.0 years for females, with an average of 4.2 partners for males and 3.0 partners for females. 6% of males had sex with prostitutes (16% in the national sample), while some women had had bisexuals (4%) or drug addicts (6.5%) as partners. The practice of anal sex was above the national average (29% for males and 24% for females). 73% of males and 79% of females always used condoms with casual sexual partners, but only 20% of males and 15% of females used condoms with steady partners.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kumarayclu, P., Lovelace, C.E., Deep Saakshmi, P.D., Devraj, S.N.
+15042708100;15042427500;15041809700;15042044300;
+El'geisol novelnatural hepatoprotectam
+(1997) FASEB Journal, 11 (9), pp. A1250.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-33750238788&partnerID=40&md5=08f04eabed4bf0062a5436a6f8e3e473
+
+ABSTRACT: Eugenol. an active ingredient of the essential oil extracted from l-iigi-tnn (tin'(i/)/i\ilfil(i buds and (hitnnni .\<inciitni leaves. v\as found to piotect the Ir.ei fioni a\idati\e stress induced damage produced b\ CCI, Liprd peroxidation KM the oxidative siicss) is comideied to he the piedommam im-chamsm causes tisn. damage that pioduced b\ main' dru"s. toxins and C.TICInolens Bugenoi exhibital a concon t ration - dependent incorporation into the tat RBC membiani.' m \iti'<> jm! inhibited The liemolviis of RBCs induced b\ the liver s11 fraction tieated - f Ci tuuenol pre-tieatment inhibited the pioduction of tinobarbituiicacid ii-actr.i substance-, and the deposition of a l dein des caused b\ fTl, peifuion of rat h\ei It-efficac\ \\.i> conij)aied \\ith ,1 standard hepatoprotectant and antioxidnnt [Kin.inii TreatiiK'iil \\ith eugenol /// MYO \\as found to induce the phase II tiny métabolique eiiz\ ine such as uj tit at In one lianfer.ise (GST) and undine mniHiphosjihau glucuioii\l tiansfeiase. probable b\ iiicieasmg the expiession of the phenrh,: antio\ulant responsive element, of GST suburnt 1 gene C'onconiitant admimialuof eugenol to Kit;, foi 3 and '> months with hepatocdlular carcinouemc reiiniKn idietiivl nitiosainine and phénobarbital) inhibited thu proliferation of the malien.i'ir eel U SuiprisingK. houever eugenol drdnot contribute positi\dv to\\aids celt regeneration on partial hep .noted 01 m studies These results suggest that eugeno! h.i-, potential, as a therapeutic agent and antioxidant Studies on the development ,(' natural potential therapeutic agents arc realistic for developing countiies. as the\ an less expensive and theiefoie moie affordable than laborator\ reseaich deip.L-i agents.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Rosner, M., Cattaneo, P.
+13106151500;7005873379;
+Presenting the portable AI Lab
+(1997) Revue d'Intelligence Artificielle, 11 (1), pp. 43-57.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-2742524495&partnerID=40&md5=b966aaf2d88a0e17cd289ffb40805187
+
+ABSTRACT: The article lists some of the problems associated with the design of didactic software for AI and then shows how these are resolved in the Portable AI Lab, an integrated environment containing a wide variety of tools and techniques. We discuss the design of the user's view of the system which includes not only "look and feel", but other factors that influence the user such as system contents, methods of access as well as the user's level of familiarity with the material. The last part of the paper assesses how the system has been used in a number of different pedagogical settings, and gives some ideas concerning future developments.
+AUTHOR KEYWORDS: AI courseware;  AI education;  AI toolkits
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Gimblett, H.R.
+6603613394;
+Augmenting resource management education with AI technologies
+(1997) AI Applications, 11 (3), pp. 57-61.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0031392743&partnerID=40&md5=762f59becf42bc1834c6bc70ca8926c2
+
+ABSTRACT: College graduates today need to have more diverse skills than ever before to be competitive in the workforce. Technology is at the forefront of this wave. The Advanced Resource Technology program (ART) in the School of Renewable Natural Resources at the University of Arizona has developed a range of courses to provide its students with advanced technological skills in addition to a conventional natural resource management education. One of these courses was established to provide the student with state-of-the-art knowledge about the application of AI to help solve a range of problems in natural resources and agriculture. This course focuses onthe integration of AI with spatial data such as geographic information systems, global positioning systems, and remote sensing to augment decision making. Using commercial software with minimal programming requirements has proved successful in introducing and teaching the concepts of AI without requireing extensive program development.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Marletta, A., Artuso, A., Fabbri, A.
+57198035171;57215797962;57214352409;
+Post-coital interception. Five years experience in a outpatients [Intercezione post-coitale. Dati relativi a cinque anni di utilizzo in un consultorio privato]
+(1997) Minerva Ginecologica, 49 (9), pp. 399-404.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0030661743&partnerID=40&md5=1c27079999ca8d89500ed887c3d99af9
+
+ABSTRACT: Background. The aim of this 5-year retrospective study is to define the efficacy of oestro-progestinic interception. Methods. An oestro-progestinic mixture (0.05 mg ethinyl estradiol and 0.250 mg dlnorgestrel) was prescribed to 6003 women attending the gynaecological outpatients clinic of AIED (Associazione Italiana per l'Educazione Demografica) in Genoa, Italy, without evidence of any previous contraindications. The prescription was of two pills at once and two pills 12 hours after. Before examination, the doctor asked for personal and medical hystory (age, date of onset of menses, unprotected intercourse date and anticonceptional failure); patients were also asked to report the data of the following menses to the clinic. The largest age range was between 20 and 24 years, probably because of their inadequate knowledge of contraceptives. The reasons for post-coital contraception were: sexual intercourse without contraceptive, failure of coitus interruptus and of the condom. Results. Post-coital interception efficacy (monthly oestro-progestinic contraception was 99-5%) according to retrospective statistical analysis, was according to Pearl index 92.9% vs 50% without any contraceptive. Conclusions. Finally, the efficacy of this method, together with its easy management and low frequency of severe contra-indications, allows us to indicate the "morning after pill" as one of the most useful outpatient strategies to avoid unwanted pregnancies.
+AUTHOR KEYWORDS: Contraceptives, oral, combined;  Contraceptives, postcoital
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Wasson, B.
+6602121928;
+Advanced educational technologies: The learning environment
+(1997) Computers in Human Behavior, 13 (4), pp. 571-594. Cited 17 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0031542281&doi=10.1016%2fS0747-5632%2897%2900027-7&partnerID=40&md5=f11f085c1d7fdf6f84941f95937bca80
+
+DOI: 10.1016/S0747-5632(97)00027-7
+ABSTRACT: Researchers of artificial intelligence in education have been developing adaptive learning material for complex domains such as programming languages, mathematics, medicine, physics, avionics trouble shooting, pulp and paper mill factories, and electronics. The actual learning material is itself, however, only part of the total Learning Environment (LE) within which learning takes place. This paper presents an extension to the brief overview of an LE first described by Sandberg and Barnard (1993) and Sandberg (1994), and later augmented by Schneider and Peraya (1995). The LE is presented as a conceptual glue which binds several areas of research in an effort to provide a complete and cohesive environment within which the learner is central. © 1997 Elsevier Science Ltd.
+AUTHOR KEYWORDS: Adaptive learning environments;  Artificial intelligence;  Intelligent tutoring systems;  Learning environments
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Averhoff, F.M., Brink, E., Pollard, B., Resha, K., Bryan, G., Vaillancourt, M.V.
+55385628200;7004774691;57224671882;6507543088;7102268972;6603753347;
+Adolescent Immunization: Focus on Implementation
+(1997) Journal of School Health, 67 (7), pp. 304-308. Cited 4 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0031228745&doi=10.1111%2fj.1746-1561.1997.tb03459.x&partnerID=40&md5=faeb8cb9780a170ce47448b0dd5ec4ea
+
+DOI: 10.1111/j.1746-1561.1997.tb03459.x
+ABSTRACT: On March 11-12, 1996, a workshop on how to implement new adolescent immunization (AI) recommendations was held in Atlanta, Ga. Sponsored by the Centers for Disease Control and Prevention, it was a collaborative effort of the National Immunization Program, the Division of Adolescent and School Health/National Center for Chronic Disease Prevention and Health Promotion, and the Hepatitis Branch/National Center for Infectious Diseases. The workshop brought together organizations and individuals interested in adolescent health and immunizations so they could address how new AI recommendations can be implemented most effectively. This article offers an overview of their discussions and suggestions, including issues of cooperation, education, legislation, and AI program development among health provider organizations, health departments, schools, community groups and various other agencies relating to adolescent health services.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Douay, L., Poloni, A., Kobari, L.
+56231967000;57225802297;6602842797;
+Ex vivo expansion of hematopoietic stem/progenitor cells in serum free. stroma free condtions: The interestof FLT3 ligand, MGDF and G-CSF
+(1996) Experimental Hematology, 24 (9), p. 1039.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-33748599904&partnerID=40&md5=7519d3bb067a3f127622971c8bdcbaa4
+
+ABSTRACT: We hive maintained CD34+ normal bone marrow cellf <103 cells/ml) in a senim-free. stroma-free liquid culture tytlem for 10 days at 37C. The mean level of expansion of nucleated cells, CFU-GM, BPU-E. CFU-MK and primitive item celli (LTC-IC in limitai dUution aaiay) (LDA) were analysed in terms of absolute numbers. Keiulti are expressed in lernt of mean fold expaniion ai day 10 compared to day 0. The baiic combination of early cytokinet SCF, lOOng/ml (Amgen), 1L3. Sn|/inl (Amgen) and IL6. lOngAnl (Sandoz). referred to ai 5,3,6 haï a modest stimulating effect on all three compartments. The adjonction of 100n(/ml FlO-ligand (FL) (Immune) fifniTicanUy enbanccd th ampuficatioo of pncunon and CFU-GM by a factor 10, in parallel with toe increase by a factor 2 of LTC-IC. Moreover, the number of CD34+ and CD34/38- waa raipKtively menaced 7 and 22 fold. Combination of early cytotine, S,3,<> FL wat aied to ttudy the impact of lineage reatricted cytokinet : EPO. 0.5 U/ml, G-CSF, 10 ni/ml and the newly described MGDF, 100 nt/ml(Amfn). The addition of MGDF incnuMd ttw number of CFU-MK up to 5 fold u well as the number of CFU-GM and CD33 + cellt. G-CSF in S3.6, FL condition doubled the Dumber of CFUGM, CD33 + celli and GDI 3 + cell>. with no confluence on LTC-IC or BFU-E. G-CSF induced the expaniion of tbe megacaryocytic lineage up to 6 (bid. EPO in pretence of S,3,6 FL increated, up to 2 logt, the number of precursors celli, mainly erythroblattic (70% glyco A) without exhaustion of all other comparmenü. Tbe simultaneous use of these 3 lineage restricted cytokinet in pretence of 4 S,3,6,FL allows a significant expansion of all hematopoictic compartments. CFU-OM BFU-E CFU-MK (LDA)-.3.6 56 6 1.5 ,3,6,F 76 54 1 .1.6.F.M 14 73 .3.6.F.O 70 104 2 .3.6.F.E 2 00 21 .S 1 I .3.6.F.O.E ï00 5! 2.S In conclusion, these data show the ability of a stoma-free, serum-free liquid system so expand all myeloid lineages, including CFU-MK and LTC-IC which are critical for clinical application of ex vivo expanded cells.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Santane-Toth, E., Eiben, A.E.
+23394025900;7004362543;
+AI in Hungary
+(1996) Informatica (Ljubljana), 20 (2), pp. 234-241.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0030171309&partnerID=40&md5=a13b92d3187975f78ae26bbdde652a86
+
+ABSTRACT: The modernizing wave of the Hungarian economic system raised special demands towards information technology today. The emphasis lies on the construction of the basic information infrastructure (National Information Strategy is under elaboration). In 90's the conventional technologies are in the focus of interest in Hungary (reengineering, reorganizing early applications, building integrated information services). Parallel with the massive computerization the interest for AI techniques is growing. Incorporation of AI techniques in everyday software technology has already begun - in Hungary, too. There are a number of talented AI researches, experts and system builders with notable (foreing) experience. AI education is being set up and thereby an institutional way of knowledge transfer is being formed. The latest developments indicate that AI in Hungary has reached maturity concerning theoretical work as well as applications.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Markov, Zdravko
+8606168200;
+AI in Bulgaria
+(1996) Informatica (Ljubljana), 20 (2), pp. 230-231.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0030166447&partnerID=40&md5=93550a72e3c5b6a87a8030ef99f7bd46
+
+ABSTRACT: In Bulgaria, the basic and applied research in the field of AI is done mainly in the universities and in the Bulgarian Academy of Sciences (BAS). However, research in the universities is restricted. Thus, the main part of the AI research is done in BAS. Although AI education is very much alive, its introduction in practice is restricted by the limited use of advanced Information Technology (IT) by the Bulgarian industry.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Liddle, J., Leitch, R., Brown, K.
+57004470600;7006202884;55457091600;
+Generic approaches in developing practical intelligent industrial training systems
+(1996) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 1086, pp. 512-520. Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84949933938&doi=10.1007%2f3-540-61327-7_150&partnerID=40&md5=b965d732f9b46d267c66c0869f924f1a
+
+DOI: 10.1007/3-540-61327-7_150
+ABSTRACT: Intelligent training systems have been developed using techniques advanced within the AI in education community. Each new system developed, however, exhibits its own inherent idiosyncrasies and does not address the problems of high development costs. This paper describes two generic approaches adopted within the Mobit project for building Intelligent Training Systems. The first being our approach to acquiring domain specific knowledge which initially requires a decomposition of the training objective into primitive generic tasks. The second being our approach to training based on domain independent learning styles and training strategies. © Springer-Verlag Berlin Heidelberg 1996.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Aldeguer, R.R., Muñoz, C., Pardo, O.C.
+8977804500;56970632700;56971090500;
+SBC-RX: Knowledge based system for radiodiagnosis and training of radiologists. The teaching file tool. A new feature
+(1996) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 1108, pp. 472-475.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84947764173&doi=10.1007%2fbfb0022649&partnerID=40&md5=e314bccb7e83ddfbffaf451eb1afc6e5
+
+DOI: 10.1007/bfb0022649
+ABSTRACT: We present a system based on A.I. techniques and oriented to radiologic diagnosis. SBC-RX uses expert knowledge which is displayed by a graphic interface. It allows queries and helps, explaining reasoning paths and interaction with basic images in order to show the features of each patology. In the new feature the system randomly selects a case problem from the teaching file, and presents it to the user. The diagnosis process is similar to aided diagnosis but the system does not accept incorrect answers from the user. When the diagnosis process ends, the system gives a list of mistakes made by the user and radiologic concepts that may have to be reviewed. © Springer-Verlag Berlin Heidelberg 1996.
+AUTHOR KEYWORDS: Artificial Intelligence;  Cognitive diagnosis;  Diagnosis and radiologists training;  Subtopic: Intelligent tutoring systems;  Topic: Artificial Intelligence in Education
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Devi, R., Tiberghien, A., Baker, M., Brna, P.
+8902305000;6602461007;7403075427;57204262029;
+Modelling students' construction of energy models in physics
+(1996) Instructional Science, 24 (4), pp. 259-293. Cited 26 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-21344453994&doi=10.1007%2fBF00118052&partnerID=40&md5=b9ced6e38062fba363cae7d0ffb6d2dd
+
+DOI: 10.1007/BF00118052
+ABSTRACT: One of the main differences between novice and expert problem solving in physics is that novices mostly construct problem representations from objects and events in the experimental situation, whereas experts construct representations closer to theoretical terms and entities. A main difficulty in physics is in interrelating these two levels, i.e. in modelling. Relatively little research has been done on this problem, most work in AI, psychology and physics education having concentrated on how students use representations in problem solving, rather than on the complex process of how they construct them. We present a study that aims to explore how students construct models for energy storage, transformation and transfers in simple experimental situations involving electricity and mechanics. The study involved detailed analysis of problem solving dialogues produced by pairs of students, and AI modelling of these processes. We present successively more refined models that are capable of generating ideal solutions, solutions for individual students for a single task, then models for individuals across different tasks. The students' construction of energy models can be modelled in terms of the simplest process of modelling-establishing term to term relations between elements of the object/event 'world' and the theory/model world, with underlying linear causal reasoning. Nevertheless, our model is unable to take into account more sophisticated modelling processes in students. In conclusion we therefore describe future work on the development of a new model that could take such processes into account. © 1996 Kluwer Academic Publishers.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Wolfe, G.R., Stewart, J.E., Maeder, L.A., Hartz, G.W.
+7102634439;55469820400;6507431942;6602942678;
+Use of dental coping beliefs scale to measure cognitive changes following oral hygiene interventions
+(1996) Community Dentistry and Oral Epidemiology, 24 (1), pp. 37-41. Cited 38 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0030073278&doi=10.1111%2fj.1600-0528.1996.tb00810.x&partnerID=40&md5=3c7769e3db6aad377f645bb34e926833
+
+DOI: 10.1111/j.1600-0528.1996.tb00810.x
+ABSTRACT: This study employed a recently developed questionnaire, the Dental Coping Beliefs Scale (DCBS), to evaluate the effect of oral hygiene interventions on dental beliefs. The DCBS was administered to 100 subjects. Compared to an untreated control group, there was an increase in the ability to improve oral health through self-effort for the three experimental interventions: Attention (AI), Education (El) and Cognitive Behavioral (CBI). When the Dental Coping Beliefs Scale was divided into scales of Internal Locus of Control, External Locus of Control, Self-Efficacy, and Oral Health Beliefs, additional changes were evident. For the CBI Group, all four scales changed significantly between baseline measurement and post-intervention toward beliefs favoring control and prevention of dental disease using brushing and flossing. For the A and E groups, three scales paralleled the results of the CBI: Internal Locus of Control and Self-Efficacy increased and External Locus of Control decreased after the intervention. However, unlike the CBI, Oral Health Beliefs did not significantly change. Overall, for all experimental groups, there was a shift from external locus of control beliefs to internal beliefs. The untreated Control Group showed no changes across the five weeks. This study was supported by a VA Medical Research Service Merit Review Award. © Munksgaard, 1996.
+AUTHOR KEYWORDS: Dental beliefs;  Locus of control;  Oral health;  Self-efficacy
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+White, C.E., Jr.
+7404153144;
+An analysis of the need for ES and AI in accounting education
+(1995) Accounting Education, 4 (3), pp. 259-269. Cited 4 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84949550311&doi=10.1080%2f09639289500000029&partnerID=40&md5=b55ff6ca8d93ad481416132cb0d57880
+
+DOI: 10.1080/09639289500000029
+ABSTRACT: Through a survey of the membership of the Artificial Intelligence/Expert Systems (AI/ES) Section of the American Accounting Association, this study examines the opinions of a subset of accounting educators about the inclusion of ES and AI in the accounting curriculum. the majority of these educators indicated that at the undergraduate level, they supplement textbook materials with readings which discuss ES and AI systems currently in use in accounting and auditing practice, while at the graduate level they use both supplemental readings and hands-on projects. A comparison between what the respondents felt to be important topics and what is currently included in a selection of accounting information systems textbooks found the textbooks to be inadequate and somewhat misdirected. This group of accounting educators were evenly split on whether or not an ES/AI course should be a required part of 150-hour accounting programs. © 1995, Taylor & Francis Group, LLC. All rights reserved.
+AUTHOR KEYWORDS: accounting information systems;  artificial intelligence;  Expert systems
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Coelho, H., Eusébio, A., Costa, E.
+7006731915;57197968489;7402527365;
+A closer look to artificial learning environments
+(1995) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 990, pp. 129-142. Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84955612422&partnerID=40&md5=7cc829bb4aebf79b1ed47c4dff00c410
+
+ABSTRACT: The so-called Intelligent Tutoring Systems evolved in the past five years to Intelligent Learning Environments. This shift was supported by the stronger role of software agents and the possible ways they can be used to promote human learning. The aim of this paper is to explore further on one possible style of formalization taking now a point of view from DAI in stead of AI and Education: a classroom is a small society of agents that can be simulated according to some specific goal defined by the user (say, the teacher). It will be based on a modification of the idea of deductive structures (DS), first proposed by Konolige. These DS will be accompanied by heuristic principles and criteria that define different types of societies and agents. The technical apparatus can be adopted in distinct educational scenarios from history to mathematics, and we will show, with an example, recent work in high school linear algebra. © Springer-Verlag Berlin Heidelberg 1995.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Gong, S., Wang, J.
+56768755700;7701311871;
+Experimental research of autoimmune inner ear disease
+(1995) Zhonghua er bi yan hou ke za zhi, 30 (1), pp. 9-12. Cited 4 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0029198043&partnerID=40&md5=43f3e227775fc398ee0f5f8fb33df6e3
+
+ABSTRACT: 16 guinea pigs were immunized with homologous crude inner ear antigen. Their hearing thresholds were recorded, morphological changes in inner ear were observed, autoantibodies against inner ear were tested. We found that these animals uniformly developed antibodies to inner ear antigen in their sera; 12 of 32 ears showed significant increases in Ap (N1) thresholds (P < 0.01); endolymphatic hydrops, vasculitis of modiolus, degeneration and loss of the cochlear neural elements were the main histopathological lesions; and especially IgG deposition was noted in the modiolar vessels and stria vascularis in most of the examined cochlears. These indicated that an experimental model of AIED can be established in partial immunized guinea pigs.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Jensen, H., Warburg, M., Sjö, O., Schwartz, M.
+56117309800;7102206240;6603908194;7404648835;
+Duchenne muscular dystrophy: Negative electroretinograms and normal dark adaptation. Reappraisal of assignment of X linked incomplete congenital stationary night blindness
+(1995) Journal of Medical Genetics, 32 (5), pp. 348-351. Cited 31 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0029050622&doi=10.1136%2fjmg.32.5.348&partnerID=40&md5=0f8587d5f5917ac8088ed057e18a6e86
+
+DOI: 10.1136/jmg.32.5.348
+ABSTRACT: Aland Island eye disease (AIED) and X linked congenital stationary night blindness (CSNB) have been mapped to Xp11.3. Patients have been described with deletions of the Duchenne muscular dystrophy (DMD) gene who also had a negative electroretinogram (ERG) similar to that seen in patients with CSNB and AIED. This seems to confirm that some cases of AIED and CSNB map to Xp21. We examined 16 boys with DMD/BMD (Becker muscular dystrophy) of whom 10 had negative ERGs, eight of them having deletions downstream from exon 44. Normal dark adaptation thresholds were observed in all patients and there were no anomalous visual functions. Hence, CSNB cannot be assigned to Xp21 and negative ERG in DMD/BMD is not associated with eye disease. Six boys with DMD/BMD had normal ERGs. We speculate that a retinal or glial dystrophin may be truncated or absent in the boys with negative ERGs.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Bronze, Green
+SOURCE: Scopus
+
+Vasques, M.I., Horta, A.E.M., Marques, C.C., Sasser, R.G., Humblot, P.
+8916193200;8916192800;55953395000;7003632727;8433945200;
+Levels of bPSPB throughout single and twin pregnancies after AI or transfer of IVM/IVF cattle embryos
+(1995) Animal Reproduction Science, 38 (4), pp. 279-289. Cited 35 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0000337773&doi=10.1016%2f0378-4320%2894%2901373-T&partnerID=40&md5=2b8a84e3a0f136642d6f1a3dba053eac
+
+DOI: 10.1016/0378-4320(94)01373-T
+ABSTRACT: Blood plasma measurements of bovine pregnancy-specific protein B (bPSPB) during gestation in Alentejano beef cows were used to characterize twin pregnancies resulting from transfer of in vitro fertilized embryos (TWIN IVF; n = 25, beef crosses), single pregnancies resulting from transfer of similar embryos (SING IVF; n = 35, beef crosses) and single gestations resulting from artificial insemination (SING AI; n = 36, pure breed), as well as late embryonic mortality associated (HS; n = 10) or not associated (EM; n = 16) with heat stress. Blood samples were collected monthly starting at 40 days of pregnancy. Levels of bPSPB at 40 days were significantly lower in cows with EM (0.56 ± 0.18 ng ml-1) and HS (0.15 ± 0.09 ng ml-1) than in cows finally calving twins (3.63 ± 0.43 ng ml-1) or singletons (1.87 ± 0.14 ng ml-1) . In six out of ten cows of the HS group, levels of bPSPB rose above the detection limit only at 70 days after estrus, while in the EM group only 1 of 16 cows presented the same pattern (P {slanted equal to or less-than} 0.035). PSPB concentrations in TWIN IVF cows were significantly higher than those of SING IVF cows at 40 and 240 days of pregnancy (3.85 ± 0.30 vs. 2.04 ± 0.26 ng ml-1, and 715 ± 63 vs. 415 ± 58 ng ml-1, respectively; P &lt; 0.001). The TWIN IVF group of cows presented significantly higher concentrations of bPSPB than SING AI cows at all stages of gestation, except at 180 days. In the single pregnancy groups, cows carrying fetuses originated by IVF embryos, when compared with cows carrying fetuses originated by AI, presented significantly higher concentrations of bPSPB from 100 to 210 days of pregnancy and at calving. The rate of increase in bPSPB from 40 to 240 days of gestation, taken from the slope of multiplicative regressions, was significantly higher in SING IVF than in TWIN IVF and SING AI groups of cows (3.284 ± 0.085 vs. 2.750 ± 0.101 and 2.852 ± 0.086, respectively; P &lt; 0.0001). After spontaneous calvings, calves born from the SING IVF cows were significantly heavier than those born from either SING AI or TWIN IVF cows (58 ± 3 vs. 42 ± 2 and 39 ± 2 kg, respectively; P &lt; 0.0001). Twin gestations were 8 days shorter than single ones (P &lt; 0.0001). In conclusion, bPSPB measurements at 40 and 70 days of gestation are useful to diagnose embryo losses occurring later then 21 days of gestation. Heat-stressed cows with embryo losses presented a retarded pattern of bPSPB production, suggesting an impaired metabolic function of the trophoblast until near 70 days of gestation. Significantly higher amounts of bPSPB are produced at 40 days in twin pregnancies. A larger variation and higher bPSPB production were observed in cows carrying crossbred fetuses derived from IVF techniques than in purebred AI'ed cows. These results suggest that there is a relationship between fetal growth rate and PSPB increase during pregnancy in cattle. © 1995.
+AUTHOR KEYWORDS: Cattle;  Embryo transfer;  Heat stress;  Pregnancy diagnosis;  Twinning
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Michalek, A.M., Mahoney, M.C.
+7005119076;7202007078;
+Provision of cancer control services to native Americans by state health departments
+(1994) Journal of Cancer Education, 9 (3), pp. 145-147. Cited 11 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0028037289&partnerID=40&md5=a2d2fd650bdc5a28862c28cfbc0de0c9
+
+ABSTRACT: To examine the extent of cancer prevention and control programs for American Indian and Alaska Native (AI/AN) tribal groups directly supported by state public health agencies, a cross-sectional survey was completed by chronic disease directors in 50 states. Descriptive statistics were used to summarize responses. Sixteen states (32%) reported having sponsored/directly supported cancer prevention and cancer control services specifically targeted to AI/AN populations. Few state public health agencies had developed culturally-relevant cancer education materials for AI/ANs. Although the respondents directed chronic disease or cancer prevention/control programs in their states, many were unfamiliar with cancer patterns or general health problems among AI/ANs. Survey results indicate that cancer prevention and control services are available to AI/AN populations through most state public health agencies. It is hoped that dissemination of survey results will increase awareness of cancer as a health problem among AI/ANs and lead to an expansion of the services available to this 'invisible minority' to levels accessible by the majority population.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kelly, A.E., Sleeman, D.H., Gilhooly, K.J.
+57647648700;7005227351;6603828554;
+Artificial intelligence in education: using state space search and heuristics in mathematics instruction
+(1993) International Journal of Man-Machine Studies, 38 (4), pp. 725-746. Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-43949173369&doi=10.1006%2fimms.1993.1034&partnerID=40&md5=a370d1e253555c94f73b61425f104419
+
+DOI: 10.1006/imms.1993.1034
+ABSTRACT: Two powerful techniques from AI-the use of heuristics, and state space analysis-are currently influencing the practice of pedagogy, particularly in mathematics. The current study compared the performance of college students on a mathematics task as a function of their exposure to each of these techniques. Specifically, it tested the hypotheses that instruction in the use of AI-type cued heuristics, and state space analysis (search) would improve students' solving of trigonometric identities (the target task), and their solving of group-theory identifies (the transfer task). Four conditions were developed in which the effects of cued heuristics alone, search alone, search and cued heuristics, and neither search nor cued heuristics were tested. A significant main effect of cued heuristics was found, but the positive effects of using cued heuristics did not transfer to problems involving group theory identities. Little gain was found for those using state space analysis. Implications for the use of these techniques in mathematics instruction are discussed. © 1993 Academic Press. All rights reserved.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Glass, I.A., Good, P., Coleman, M.P., Fullwood, P., Giles, M.G., Lindsay, S., Nemeth, A.H., Davies, K.E., Willshaw, H.A., Fielder, A., Kilpatrick, M., Farndon, P.A.
+35413152300;15026166700;7401676939;7801588018;7102537681;7102294224;57219445987;35414895000;57217371528;7007005921;7006204896;7004763620;
+Genetic mapping of a cone and rod dysfunction (Aland Island eye disease) to the proximal short arm of the human X chromosome
+(1993) Journal of Medical Genetics, 30 (12), pp. 1044-1050. Cited 40 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0027482799&doi=10.1136%2fjmg.30.12.1044&partnerID=40&md5=176dbd22502d4920ca916288a27a89b3
+
+DOI: 10.1136/jmg.30.12.1044
+ABSTRACT: A five generation family with an X linked ocular disorder has been investigated. The major clinical features were reduced visual acuity, nystagmus, and myopia. Although impaired night vision was not a symptom, using psychophysical and electrophysiological testing both rod and cone function were found to be abnormal in all affected males. No abnormality was detected in carrier females. Gene location studies showed X linked transmission of a gene that maps to proximal Xp11. The findings observed in this cohort are similar to those previously reported in both congenital stationary night blindness type 2 (CSNB2) and Aland Island eye disease (AIED). This study addresses whether CSNB2 and AIED are a single entity or whether the latter is a subset of the former.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Bronze, Green
+SOURCE: Scopus
+
+Fries, M.H., Lebo, R.V., Schonberg, S.A., Golabi, M., Seltzer, W.K., Gitelman, S.E., Golbus, M.S.
+8977518400;7006007209;7004948947;7004376323;7004205766;6603810054;7005623124;
+Mental retardation locus in Xp21 chromosome microdeletion
+(1993) American Journal of Medical Genetics, 46 (4), pp. 363-368. Cited 21 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0027196748&doi=10.1002%2fajmg.1320460404&partnerID=40&md5=eff3c83fb452e2f4b669afc43c21d24b
+
+DOI: 10.1002/ajmg.1320460404
+ABSTRACT: Xp21 microdeletion syndrome is associated with variable size Xp21 deletions that usually include the glycerol kinase locus. The clinical phenotypes we studied in this chromosome region include:Xpter - Aland Island eye disease (AIED) -adrenal hypoplasia (AH) -glycerol kinase (GKD) -Duchenne muscular dystrophy (DMD) -retinitis pigmentosa (RP) -ornithine transcarbamylase (OTC) -centromere. In a compilation of 18 individuals in 14 families with the AH, GKD, and DMD loci deleted, 17 were male and all were developmentally delayed. In contrast, we report mentally retarded female carriers in two Xp21 deletion syndrome families with DMD, GKD, and AH in affected males. In the first family with normal karyotypes, a submicroscopic deletion was associated with DMD in the retarded male and with retardation in carrier females. In the second family an X chromosome with a cytogenetically deleted Xp21 distal to the OTC and RP genes segregated in the affected male and retarded female carriers. DNA analysis at the DMD locus verified the cytogenetic findings. This report of mental retardation in otherwise asymptomatic female carriers of Xp21 deletion classifies one form of mental retardation in females.
+AUTHOR KEYWORDS: adrenal hypoplasia;  Duchenne muscular dystrophy;  familial mental retardation;  glycerol kinase deficiency;  Xp21 microdeletion syndrome
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Aiken, R., Hoskin, N., Ingargiola, G., Solley, J., Wilson, J., Christensen, M., Papalaskari, M.-A.
+24443436200;57190041450;6701418777;36170073700;56164777300;7203030091;6507029842;
+Providing laboratory support for the introductory al course
+(1992) Proceedings - Frontiers in Education Conference, FIE, art. no. 683493, pp. 714-718. Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-77954046354&doi=10.1109%2fFIE.1992.683493&partnerID=40&md5=856500bb8ba704686f7fcb024c32b249
+
+DOI: 10.1109/FIE.1992.683493
+ABSTRACT: The FLAIR repository is to be a learning environment designed to significantly enhance the quality of undergraduate AI education at schools with limited resources. It will use pedagogically effective ways to present AI concepts and it will allow instructors to design or to configure instructional sequences and student knowledge evaluations. The objectives for the FLAIR repository as a system include: being self-explanatory; being useful with some effectiveness even for students lacking knowledge of AI programming languages; and, providing standards, guidelines and tools to facilitate system maintenance and customization. The repository's objectives for aiding students include: encouraging exploration and self-learning while ensuring effective feedback and guidance; allowing knowledge to be partitioned into meaningful informational chunks that can be accessed individually or as part of a larger presentation; allowing the relationships between concepts to be fully explored; providing real-world examples taken from various domains; allowing students to extract and combine AI algorithms for study or use in projects, thus encouraging the "learning by doing" principle; and, allowing students to assess their own performance. The objectives for the repository and project with respect to aiding instructors include: allowing customization to support a variety of learning modes, from the very structured to the exploratory; providing authoring tools for modules, concepts and instructional sequences; providing examples of class plans, laboratory books, student exercises and projects; supporting the assessment of student performance; and, providing tools for importing existing pedagogic material into the FLAIR framework. Finally, the scientific objectives of the FLAIR repository project include: providing a model of how scientific and educational information can be compiled, shared, distributed and used in a highly-interactive information environment. It is hoped that the FLAIR Project will provide a model of a learning environment founded on a rich domain-specific knowledge base that will be applicable to many other domains, both within and outside computer science.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Lazansky, J., Marik, V., Stepankova, O.
+57210632696;7004172159;6701701561;
+Computers in Artificial Intelligence Education
+(1992) European Journal of Engineering Education, 17 (2), pp. 143-149. Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84953474194&doi=10.1080%2f03043799208923166&partnerID=40&md5=952472153d53603452a5e00d12b3f499
+
+DOI: 10.1080/03043799208923166
+ABSTRACT: Both the origin and development of artificial intelligence (AI) are connected with the origin and development of computers. Computers play a very important role in engineering education, AI influences such disciplines like CAD, CASE, CAE, and others. The specific experience concerning AI education at a technical university has been gathered in this paper. There is stressed need of good balance between theoretical background and individual training with computers as well as importance of personal experience in solving practical AI. © 1992, Taylor & Francis Group, LLC. All rights reserved.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Hendley, R.J., Jurascheck, N.
+6505786506;24755643900;
+Cascade: Introducing AI into CBT
+(1992) Computers and Education, 18 (1-3), pp. 71-76.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-50749135178&doi=10.1016%2f0360-1315%2892%2990038-7&partnerID=40&md5=a3983adc799edd7d2f946969059acce8
+
+DOI: 10.1016/0360-1315(92)90038-7
+ABSTRACT: This paper describes a 3-year project to investigate and implement the introduction of AI techniques into tertiary education. The project involved a substantial training component as well as the production of a number of pilot projects. The paper gives the rationale for the initiative, reports on the structure of the training, gives an overview of the pilot projects and summarises some of the lessons learned. © 1992.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Brusilovsky, P.L., Gorskaya-Belova, T.B.
+6701517032;24755489600;
+An environment for physical geography teaching
+(1992) Computers and Education, 18 (1-3), pp. 85-88. Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-50749134585&doi=10.1016%2f0360-1315%2892%2990040-C&partnerID=40&md5=81c4c72a9da2eea062d0c19d2b2db675
+
+DOI: 10.1016/0360-1315(92)90040-C
+ABSTRACT: Using computers in teaching will have the best effect only when we seriously revise our approach to education itself. In this paper we suggest a possible computer approach to learning geography, based on modelling. To verify this approach we have developed a computer-based unit for the physical geography course which included an intelligent learning environment and which is described in this paper. We tried to use the capabilities of modern hardware (graphics, colour, sound), a modern user interface (windows, menus, icons) and experience of artificial intelligence (AI) applied to education. © 1992.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Alitalo, T., Kruse, T.A., Forsius, H., Eriksson, A.W., De la Chapelle, A.
+6701791777;7005784767;56653837800;7202802456;35393340400;
+Localization of the Aland Island eye disease locus to the pericentromeric region of the X chromosome by linkage analysis
+(1991) American Journal of Human Genetics, 48 (1), pp. 31-38. Cited 37 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0026089211&partnerID=40&md5=60735cb741b5d6aa4fda38070d7dcb81
+
+ABSTRACT: Aland Island eye disease (AIED) is an X-chromosomal disorder characterized by reduced visual acuity, progressive axial myopia, regular astigmatism, latent nystagmus, foveal hypoplasia, defective dark adaptation, and fundus hypopigmentation. The syndrome was originally reported in 1964 in a family on the Aland Islands. To determine the localization of the AIED gene, linkage studies were performed in this family. A total of 37 polymorphisms, covering loci on the entire X chromosome, were used. By two-point analysis the strongest evidence for linkage was obtained between AIED and DXS255 (maximum lod score [Z(max)] 4.92 at maximum recombination fraction [θ(max)] .00). Marker loci DXS106, DXS159, and DXS1 also showed no recombination with AIED. Other positive lod scores at θ(max) .00 were obtained with markers localized in the XY homologous region in Xq13-q21, but the numbers of informative meioses were small. Multilocus linkage analysis indicated that the most probable location of AIED is in the pericentromeric region between DXS7 and DXS72. These results rule out localizations of AIED more distal on Xp that have been proposed by others. Our data do not exclude the possibility that AIED and incomplete congenital stationary night blindness are caused by mutations in the same gene. This question should be resolved by careful clinical comparison of the disorders and ultimately by the molecular dissection of the genes themselves.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Garito, M.A.
+56991363900;
+Artificial intelligence in education: evolution of the teaching—learning relationship
+(1991) British Journal of Educational Technology, 22 (1), pp. 41-47. Cited 4 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84990485031&doi=10.1111%2fj.1467-8535.1991.tb00050.x&partnerID=40&md5=05e4ced20986be6108275edd170001ed
+
+DOI: 10.1111/j.1467-8535.1991.tb00050.x
+ABSTRACT: In this paper some of the implications of the exploitation of Artificial Intelligence techniques in the educational field are presented, and the evolution of the changing quality of interaction between student and teacher is illustrated. Such historical changes are presented as a consequence of the introduction of new technologies in education. Particular aspects of Intelligent Educational Systems are presented, pointing out the innovative features of such systems compared with traditional applications. Copyright © 1991, Wiley Blackwell. All rights reserved
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Sandberg, J., Barnard, Y.
+7101828345;55180326900;
+Allan Collins and Stellan Ohlsson
+(1991) AI Communications, 4 (4), pp. 132-144. Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84974746795&doi=10.3233%2fAIC-1991-4402&partnerID=40&md5=4470b0b13935d69500ffbcc4c0a3c89d
+
+DOI: 10.3233/AIC-1991-4402
+ABSTRACT: In the series of interviews on AI and Education, this issue presents Stellan Ohlsson and Allan Collins. Both were asked the same four main questions: • What is your view regarding theories of learning and cognition. • How does your theoretical view relate to education in general? • What part can computers play in education? • What do you think of the future? © 1991 IOS Press and the authors.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Sandberg, J.
+7101828345;
+Interviews on AI and education: Martial vivet
+(1991) AI Communications, 4 (2-3), pp. 53-59.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84962692750&doi=10.3233%2fAIC-1991-42-303&partnerID=40&md5=51c481891bc4966632ba14c50782a159
+
+DOI: 10.3233/AIC-1991-42-303
+ABSTRACT: The following interview is the first of a series on AI and education. In this series four main topics are addressed: Theories of learning and cognition The relation between such theories and education The role of computers in education The future of AI and education About Martial Vivet: Martial Vivet is professor of informatics at the University of Maine in Le Mans in France. His main focus is the design of learning environments which take the context into account. His background is in mathematics. He began research in Artificial Intelligence in the early seventies with Jacques Pitrat at the University of Paris. Martial Vivet has worked for many years in the area of teachers training in mathematics. In 1977 he was involved in the group which introduced LOGO to France. Surrounding LOGO he now develops microrobots based microworlds that are used to train students in technology (mechanics, electronics, programming). He is involved in several European projects (COMETT and DELTA). In October 1988 he managed the second European meeting on Intelligent Tutoring Systems. © 1991 IOS Press and the authors.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Carlson, S., Vesti, E., Raitta, C., Donner, M., Eriksson, A.W., Forsius, H.
+7201543818;6701691295;7005024817;7102430462;7202802456;56653837800;
+Clinical and electroretinographic comparison between Åland Island eye disease and a newly found related disease with X‐chromosomal inheritance
+(1991) Acta Ophthalmologica, 69 (6), pp. 703-710. Cited 8 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0026411002&doi=10.1111%2fj.1755-3768.1991.tb02047.x&partnerID=40&md5=e8367ae4f1beeef156e8136c5114593c
+
+DOI: 10.1111/j.1755-3768.1991.tb02047.x
+ABSTRACT: Abstract Two subjects representing ÅIED (Åland Island Eye Disease) and a family with 5 males affected with an ÅIED related X‐linked hereditary eye disease were studied clinically and electrophysiologically. The clinical picture of ÅIED includes myopia and astigmatism, reduced visual acuity, nystagmus, ocular albinism, hemeralopia and dyschromatopsia (No. 300600, McKusick 1990). The subjects with the related disease showed astigmatism with or without myopia, reduced visual acuity, slight hemeralopia, normal color vision in 3/5 subjects, no ocular albinism and nystagmus only in one case. In both diseases the ERG was abnormal showing defective a‐ and b‐waves, but there were also differences. The most notable was the greater reduction of the b‐wave amplitude in the mixed (rod and cone) responses for the white stimulus in the ERG of the ÅIED related disease. With regard to the pathogenesis we propose that in both diseases rod and cone functions are defective but in an ÅIED related disease a defective cone function inhibits the transmission of the rod signals to the rod bipolars, causing greatly reduced mixed responses. The clinical and ERG findings of this study suggest that the 5 subjects of our family do not represent ÅIED but another X‐linked hereditary eye disease. The investigation to find out the gene locus of this disease is going on. 1991 Institution Acta Ophthalmologica Scandinavica
+AUTHOR KEYWORDS: AÅland Island Eye Disease;  ERG;  X‐chromosomal inheritance;  ÅIED related disease
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Schwartz, M., Rosenberg, T.
+7404648835;7102636037;
+Åland eye disease: Linkage data
+(1991) Genomics, 10 (2), pp. 327-332. Cited 17 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0025940605&doi=10.1016%2f0888-7543%2891%2990315-6&partnerID=40&md5=a178215364bed9ca4393920df32bca10
+
+DOI: 10.1016/0888-7543(91)90315-6
+ABSTRACT: A large Danish family with Åland Island eye disease (AIED) was studied by linkage analysis using 16 polymorphic DNA markers covering the whole X chromosome. Positive lod scores were found for marker loci at the proximal part of the short arm of the X chromosome, DXS255 and TIMP (Zmax = 3.93 and 3.18 at θ = 0.0), suggesting an assignment of the locus for AIED to this part of the X chromosome. Recombination was observed with the locus DXS7 as well as with other loci distal to DXS7. These results are not in agreement with the deletion presented previously by D-A. M. Pillers et al. (1990, Am. J. Med. Genet. 36: 23-28), which mapped AIED to Xp21. © 1991.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Rowlinson, S., To, T., Tsang, A.K.
+7003696228;35861811300;7006979270;
+Use of expert systems in computer-assisted learning
+(1991) Artificial Intelligence and Civil Engineering, pp. 285-291.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0025889819&partnerID=40&md5=95fb910b34290558fc0af2ad8c636434
+
+ABSTRACT: In recent years, the use of artificial intelligence in education and training has increased rapidly. Computer-assisted learning (CAL) which makes use of expert systems can help improve students' thinking and problem-solving skills. This paper reports on an attempt to build an Intelligent Computer Assisted Instruction (ICAI) system to stimulate the interest of undergraduate students and to familiarise them with claims problems in civil engineering (which is often regarded as a complicated subject). The students are expected to acquire claims analysis skills after absorbing the experience and knowledge of practical engineers built into the ICAI model. Existing systems and models are briefly studied and a model for use in Hong Kong developed. The paper concludes with a presentation of the students' reaction to the system which is currently under test.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Bruni, V., Perini, R., Cirri, R., Degl'Innocenti, E., Michelozzi, C., Verni, A.
+35566453000;56354081900;6507053757;56044411600;56628157100;6506543146;
+Natural contraceptive methods
+(1991) Acta Europaea Fertilitatis, 22 (1), pp. 47-50.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0025885310&partnerID=40&md5=5a5f05a16b4694e9f10516d2c4ddc2de
+
+ABSTRACT: This is a brief review of the available natural family planning methods, the rhythm, basal body temperature, cervical mucus, and symptothermal methods, for use by Italian adolescents and young women who choose to avoid artificial contraception. Data from the last AIED Report show that 50% of Italian adolescent girls aged 16-18 have had coitus, while only 3-7.3% are using contraception, and a high proportion of women having abortions are under 20. The majority of adolescents using natural family planning state that they use the rhythm method, which has a Pearl Index ranging from 14.4-47%. Consistent use of the basal body temperature method can be improved with electronic or digital thermometers which take seconds rather than minutes to use. The cervical mucus method is notoriously unreliable in the post-menarchic period, when anovulatory cycles are common. An electronic instrument is also available to facilitate its use. The symptothermal method, combining cervical mucus, basal body temperature, and other clinical signs, is more difficult to integrate for new users, and no data are available in the literature on its use by adolescents. When the wide variation in menstrual cycle lengths, ovulatory and anovulatory cycles, and the myriad psychosocial barriers to regulated sexuality, a 3-6 month training period, and a committed relationship rarely found in adolescents are considered, it is highly unlikely that any natural family planning method can be recommended to this group of women.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Pillers, D.-A.M., Towbin, J.A., Chamberlain, J.S., Wu, D., Ranier, J., Powell, B.R., McCabe, E.R.B.
+6701861862;7102520568;7202327292;7404297028;6507716635;7202173497;7103038109;
+Deletion mapping of Aland Island Eye Disease to Xp21 between DXS67 (B24) and Duchenne muscular dystrophy
+(1990) American Journal of Human Genetics, 47 (5), pp. 795-801. Cited 15 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0024997803&partnerID=40&md5=29064eca5b9ee3dda98e9312d02874b2
+
+ABSTRACT: Aland Island Eye Disease (AIED) is an X-linked form of ocular hypopigmentation-also known as Forsius-Eriksson, or type 2, ocular albinism-in which affected males demonstrate subnormal visual acuity, protanomalous red-green colorblindness, axial myopia, astigmatism, hypoplasia of the fovea, and hypopigmentation of the fundus. A patient has previously been described who, in addition to AIED, manifested a contiguous gene syndrome which included congenital adrenal hypoplasia (AHC), glycerol kinase deficiency (GKD), and Duchenne muscular dystrophy (DMD). In the present paper report we report the molecular genetic analysis of his deletion. Initially, multiplex polymerase-chain-reaction amplification was used to screen for a DMD-locus deletion which was then further characterized, using DMD cDNA and genomic probes, via Southern blot analysis. The deletion includes the region encompassed by probes C7 (DXS28) and DMD cDNA 8. Probes B24 (DXS67) and DMD cDNA 5b-7 show normal hybridization patterns and appear to flank the deletion, while the DMD cDNA 8 detects a junction fragment. Molecular genetic techniques have mapped the deletion in this patient to the subbands Xp21.3-21.2, between DXS67 and DMD.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Ramani, S., Chandrasekar, R., Anjaneyutu, K.S.R.
+57210772908;6701387650;56825703500;
+KBCS activities at NCST
+(1990) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 444 LNAI, pp. 515-524.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85032865607&doi=10.1007%2fBFb0018408&partnerID=40&md5=2acd21ae8b613beee9a49d8705660bdf
+
+DOI: 10.1007/BFb0018408
+ABSTRACT: KBCS activities at NCST include work on intelligent information retrieval, early work for machine translation from English to Hindi, AI applications in education with a strong focus on intelligent testing, and intelligent scheduling of ships and aircraft. The other activities of NCST s KBCS group include running an AI quarterly, Vivek, conducting a Diploma Programme in KBCS, and the development of AI software such as an expert system shell, and a LISP interpreter. Part I of this report broadly describes the goals of the group, and the areas of research. Part II is an overview of the technical work carried out by members of this group. The papers cited in the text give details of each active area. © Springer-Verlag Berlin Heidelberg 1990.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Yalabik, N.
+6505981829;
+The effect of AI applications on graduate education in Turkey
+(1990) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 451 LNAI, pp. 244-247.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85031896975&doi=10.1007%2f3-540-52952-7_30&partnerID=40&md5=93071fd3834e95f43f3e784861c61084
+
+DOI: 10.1007/3-540-52952-7_30
+ABSTRACT: In the last few years, some real-life applications in Turkey created a demand for high level education in subjects like Pattern Recognition, Artificial Intelligence and Expert Systems. The pressing needs of the government provide a good opportunity for the university for conducting M.S. and Ph.D. theses and placing demand in graduate courses in AI. In this study, the nature of some of these applications and their effect on higher education in Middle East Technical University will be discussed. © Springer-Verlag Berlin Heidelberg 1990.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Štěpánková, O., Štěpánek, P.
+6701701561;57212542575;
+AI education and logic
+(1990) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 451 LNAI, pp. 199-205. Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84953460998&doi=10.1007%2f3-540-52952-7_26&partnerID=40&md5=f4c59f751911b515a8f6754780b30184
+
+DOI: 10.1007/3-540-52952-7_26
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Oliver, J., Zukerman, I.
+56109354600;6603747066;
+DISSOLVE: A system for the generation of human oriented solutions to algebraic equations
+(1990) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 406 LNAI, pp. 92-107. Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-70349882498&doi=10.1007%2f3-540-52062-7_73&partnerID=40&md5=cd554d7a5c67f2f03626337fafad5ec6
+
+DOI: 10.1007/3-540-52062-7_73
+ABSTRACT: In general, competent algebraists can easily recognize expressions which hold high potential for the successful application of commonly applied algebraic transformations, such as transferring terms to the other side of an equation and factoring out common factors. Novice students, however, have difficulty identifying these expressions and assessing the promise of the application of particular transformations. In order to teach these skills, an Intelligent Tutoring System must be able to reason about algebraic expressions in a way which is accessible to a student. In this paper, we describe a mechanism for the representation and manipulation of algebraic expressions which is able to characterize algebraic transformations commonly performed by algebraists. This mechanism has been implemented in a system called DISSOLVE which generates explainable and intuitively appealing solutions to algebraic equations at the high-school level. © Springer-Verlag Berlin Heidelberg 1990.
+AUTHOR KEYWORDS: AI and education;  Symbolic manipulation
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Gill, K.S.
+36898097700;
+Reflections on participatory design
+(1989) AI & Society, 3 (4), pp. 297-314. Cited 4 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-34249972013&doi=10.1007%2fBF01908620&partnerID=40&md5=c541eec4407f48c7ad865c39c45856c0
+
+DOI: 10.1007/BF01908620
+ABSTRACT: The human-centred debate in Britain focuses on the idea of human-machine symbiosis, and the "Dialogue" debate in Scandinavia focuses on the deep understanding of human communication, through a process of inner reflection. Both of these debates provide a framework for the participatory design of AI systems. The emergence of "social Europe" creates the desirability for a sharing of social and cultural knowledge and resources among the citizens of Europe. This raises the possibility of exploiting the potential of new technology for the distribution and transfer of knowledge and skill among the citizens of Europe whilst retaining the diversity of their cultures and languages. These issues of transfer have been the focus of many AI researchers who have been concerned with the design of AI systems for the education, training and welfare of disadvantaged citizens. It is suggested that central to such a transfer is the design of participatory learning systems which focus on the mediation and distribution of knowledge in diverse socio-cultural contexts. In this paper, the SEAKE Centre's projects, especially "Brighton Parosi", and "Adult Literacy" are discussed to provide an insight into the concepts and practice of designing such participatory systems. The philosophy of these projects was rooted in the sharing of social and cultural experiences, through participatory learning. The development of the projects involved a process of exchange of language and culture in both formal and informal learning environments. For the Parosi Project social interaction was the central core for the exchange of cultural experiences and the language acquisition process. The Adult Literacy project built on the exchange process, and used the idea of the mediation of knowledge for the design of a knowledge based system. The design process developed by the above two projects could be described as a participatory design approach which builds upon and extends the human-machine symbiosis and dialogue approaches. © 1989 Springer-Verlag London Limited.
+AUTHOR KEYWORDS: Artificial intelligence;  Dialogue;  Human-centredness;  Knowledge acquisition;  Knowledge transfer;  Mediation;  Participatory design
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Beusmans, J., Wieckert, K.
+57209399578;53564425200;
+Computing, Research, and War: If Knowledge is Power, Where is Responsibility?
+(1989) Communications of the ACM, 32 (8), pp. 939-951. Cited 4 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84976720378&doi=10.1145%2f65971.65973&partnerID=40&md5=5d2e5a2045d19ee31e0512a178d0d89a
+
+DOI: 10.1145/65971.65973
+ABSTRACT: In the United States, artificial intelligence 1989 research is mainly a story about military support for the development of promising technologies. Since the late 1950s and early 196Os, AI research has received most of its support from the military research establishment [37, 55].1 Not until the 1980s, however, has the military connected this research to specific objectives and products. In 1983, the 600-million Strategic Computing Program (SCP) created three applications for 'pulling' the technology-generation process by creating carefully selected technology interactions with challenging military applications [16]. These applications, an autonomous land vehicle, a pilot's associate, and a battle management system, explicitly connect the three armed services to further AI developments [29, 51, 53]. The Defense Science Board Task Force on the Military Applications of New-Generation Computer Technologies recommended warfare simulation, electronic warfare, ballistic missile defense and logistics management as also promising a high military payoff [18]. In his 1983 Star Wars speech, President Reagan enjoined the scientific community, those who gave us nuclear weapons, to give us the means of rendering these nuclear weapons impotent and obsolete [43]. As in the Manhattan and hydrogen bomb projects, AI researchers and more generally computer scientists are expected to play major parts in this quest for a defensive shield against ballistic missiles. Computing specialists such as John von Neumann played a supportive role by setting up the computations necessary for these engineering feats—with human computers for the atom bomb [10]2 and with ENIAC and other early computers for the hydrogen bomb [9]. The Star Wars project challenges computer scientists to design an intelligent system that finds and destroys targets—basically in real-time and without human intervention. The interdependence of the military and computer science rarely surfaces during our education as computer practitioners, researchers, and teachers. Where might information concerning these important military applications enter into computer science and AI education? Where do students receive information concerning the important role they may play in weapon systems development? One of our students recently remarked that as a computer science major, I did not realize the magnitude of the ramifications of advancing technology for the military. In a field so dominated by the DoD, I will have to think seriously about what I am willing and not willing to do—and what lies in between those two poles.3 As researchers and educators, the authors wish to encourage colleagues and students to reflect upon present and historical interactions between computer science as an academic discipline and profession, and military projects and funding. As computer professionals, we lay claim to specialized knowledge and employ that knowledge in society as developers of computing technologies. Thus, we exercise power. Recognizing that as professionals we wield power, we must also recognize that we have responsibilities to society. To act responsibly does not mean that computer professionals should advocate a complete separation between computer science and military missions. However, we should openly examine the inter-relationships between the military and the discipline and practice of computing. To act responsibly does not mean that computer scientists and practioners should eschew support or employment from the military, although some are justified in taking such a stance.4 To act responsibly requires attention to the social and political context in which one is embedded; it requires reflection upon individual and professional practice; it requires open debate. The lack of attention to issues of responsibility in the typical computer science curriculum strikes us as a grave professional omission. With this article, we hope to add material to the dialogue on appropriate computing applications and their limits. We also hope to provoke reflections on computing fundamentals and practice at the individual, professional, and disciplinary levels, as well as prodding government institutions, professional societies, and industry to support in-depth research on the issues we raise here. Reflection requires information and discussion. Academic computer science departments rarely support serious consideration of even general issues under the rubric of the social and ethical implications of computing. Unlike any other U.S. computer science department, Information and Computer Science (ICS) at UC Irvine has an active research program in the social implications of computing (Computers, Organizations, Policy and Society—CORPS). Even within CORPS, research that addresses the interactions between the military and computer science is difficult to pursue—not because individuals aren't interested, but because they are not able to find professional or academic support. The authors' interests in these issues arose from personal concerns over the dependence of military systems upon complex technology, and the possible grave outcomes of this fragile relationship. CORPS provided a supportive intellectual environment that allowed us to pursue our interests. In 1987, we developed and taught an undergraduate course designed to inform students about military applications and their limits, and allow dialogue on professional responsibilities. In general, little monetary support is available for research that considers these issues, and it is only through support from the Institute on Global Conflict and Cooperation and campus instructional funds that we were able to develop and teach the course. Few researchers or educators can devote time and/or energy to pursue the social and ethical implications of their work and profession, in addition to their mainstream research. Since the discipline of computer science does not consider these reflections serious mainstream research, those who chose to pursue these vital questions have difficulties finding employment and/or advancing through the academic ranks. Growing concern over these issues and interest by computer scientists, as evidenced by the group Computer Professionals for Social Responsibility [38], individuals such as David Parnas [39], and this article, may lead to future research support and academic recognition. For now, as concerned professionals, we offer the following reviews. They pose many more questions than answers. This article exemplifies the interdisciplinary investigations which are required as precursors to serious analysis of computing use in these applications. We hope that our reviews generate discussion and debate. In the first section, we present the course rationale and content, as well as student responses. In the sections following the course description, we consider three applications—smart weapons, battle management, and war game simulations—that are generating research and development funds and that have controversial implications for military uses of computing. We start with smart weapons, that is, the development of weapons that can destroy targets with minimal human intervention. Next we look at battle management systems designed to coordinate and assess the use of resources and people in warfare. Finally, we turn to war gaming as a means for evaluating weapon performance and strategies for war fighting. In each case, we describe the state of technology, its current and potential uses and its implications for the conduct of war. © 1989, ACM. All rights reserved.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Deveau, P.M.
+57168241800;
+Teaching yield management in the hospitality management curriculum
+(1989) Journal of Hospitality & Tourism Research, 13 (3), p. 557.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84970688428&doi=10.1177%2f109634808901300368&partnerID=40&md5=81c6678e09387c95b9a5519349d357f3
+
+DOI: 10.1177/109634808901300368
+ABSTRACT: I Yield management is one of the most revolutionary innovations to impact the lodging industry ever. Yield management allows the rooms division of a hotel to control the rates being quoted and occupancy by market segment to maximize rooms revenue. By combining artificial intelligence and the knowledge of experts in a hotel, yield management can produce results that were previously unthought of. Yield management/artificial intelligence was first experimented with by Computer ized Lodging Systems, Inc. and Sonesta lnternational Hotels Corp., in April 1988. Since that time every major software vendor has made plans to introduce a similar product. Currently, the major lodging corporations are experimenting with yield management at test properties and finding the results to be financially beneficial. With these positive results in mind it is easy to see that yield management is about to make a permanent mark on the lodging industry. II This paper will attempt to provide readers with the following information: • What yield management is • How artificial intelligence works • How yield management and artificial intelligence are combined • A review of the current vendors of YM/AI • Results experienced by YM/AI users • Where and how YM/AI should be included and taught in the Hospitality Curriculum Through this analysis of yield management/artificial intelligence, the readers will gain the knowledge necessary to function and educate in this new environment. III The financial impact that YM/AI is going to have on the lodging industry in years to come is immense. Currently there are only a handful of individuals in the lodging industry who are familiar with YM/AI. If hospitality education is to fulfill its mission of preparing the future managers of the industry, current innovations must be assimi lated in the hospitality curriculum as quickly as possible. YM/AI is an innovation that provides hospitality education the opportunity to fulfill its responsibility of educating students in the use of state of the art technology prior to its complete adoption by the industry it serves. © 1989, Sage Publications. All rights reserved.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Schneider, D.K.
+57199972376;
+Intelligent discovery systems (ids)
+(1989) Higher Education in Europe, 14 (2), pp. 40-45.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84949164960&doi=10.1080%2f0379772890140205&partnerID=40&md5=acb025165faad416eba31b8dc643f607
+
+DOI: 10.1080/0379772890140205
+ABSTRACT: In the literature on Intelligent Computer-Aided Instruction (ICAI), and more widely, in that on artificial intelligence in education, we can distinguish, as a general rule, between intelligent tutoring systems and learning environments (also called micro-worlds). In this article, we have attempted to merge these two approaches so as to produce a synthesis which we propose calling-intelligent discovery systems. © 1989, Taylor & Francis Group, LLC. All rights reserved.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+ŠTĚPÁNKOVÁ, O., Zdraitial, Z.
+6701701561;56991420900;
+Ai education in prague
+(1989) Higher Education in Europe, 14 (2), pp. 46-50. Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84949162571&doi=10.1080%2f0379772890140206&partnerID=40&md5=f39bb5153401e9297eb379dfc407478c
+
+DOI: 10.1080/0379772890140206
+ABSTRACT: The authors present a general description of the course offerings in the area of Artificial Intelligence (AI) in two Czechoslovak universities: the Czech Technical University (Faculty of Electrical Engineering) and the Charles University of Prague (Faculty of Mathematics and Physics). In the case of the Czech Technical University, undergraduate courses in AI are offered by the Department of Control Engineering as a part of Technical Cybernetics. At the postgraduate level, students can specialize in AI, robotics, biocybernetics, and in other fields. In the case of Charles University, AI is offered at the undergraduate level as parts of the specializations offered in theoretical cybernetics and in teaching methods for mathematicians. Students in other disciplines receive basic training in cybernetics, including basic Information about AI. © 1989, Taylor & Francis Group, LLC. All rights reserved.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Painvain, E., Barlese, M.G., Sanna, F.
+6603244621;7801529921;6602217571;
+Artificial insemination with donor cryopreserved semen: Importance of the volume of semen and influence of ovulatory dysfunctions
+(1989) Acta Europaea Fertilitatis, 20 (2), pp. 91-95. Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0024333930&partnerID=40&md5=5e41ab55bb05b1b167e0acb74f6b7ee6
+
+ABSTRACT: The study deals with a program for artificial insemination by means of cryopreserved donor sperm, conducted at AIED (Italian Association for Demographic Education) in Rome from 1983 to 1986. Two groups of women, both having an average age of 30, and with an equal proportion of women with factors of reduced fertility, was inseminated with a different volume of cryopreserved sperm: a) 100 women were inseminated with an average number of 6.3 straws per cycle (total number of cycles 297) and 55 pregnancies were obtained (pregnancy rate = 0.185 per cycle); b) 100 women were inseminated with a lower average number of straws; 4.1 per cycle (total number of cycles 297); in this group 23 pregnancies were obtained (pregnancy rate = 0.077 per cycle). The quality of the semen, the methods for pinpointing ovulation and for depositing seminal liquid in the female genital tract were the same for the two groups. The difference between the pregnancy rate of the two groups was statistically significant (p < 0.0001). Altogether, 50 women with ovulatory dysfunctions underwent ovulation stimulation and among these 20 conceptions were recorded. These conceptions were obtained with 47 cycles of application (average number of cycles preceding conception cycle 1.35). This value proved to be higher than that for women not undergoing stimulation (1.10). Nevertheless, the difference was not found to be statistically significant even if considered separately for the two groups treated with different volumes of semen. In an attempt to rationalize the technique of insemination and to assess whether or not there is any correlation between the volume of semen and the number of pregnancies, the authors were able to confirm that when using a lower number of straws the pregnancy rate was significantly reduced.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Painvain, E., Barlese, M.G., Mastroianni, F., Balzano, G.
+6603244621;7801529921;6603606689;7003632275;
+Heterologous artificial insemination. Analysis of 166 cases treated at the Clinic for Artificial Insemination of Rome [Inseminazione artificiale eterologa. Analisi di 166 casi trattati presso la Sez. AIED di Roma.]
+(1988) Minerva Ginecologica, 40 (4), pp. 245-248.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0023989035&partnerID=40&md5=db45a8e1738fe3075f97bba147b9646c
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Painvain, E., Barlese, M.G., Mastrojanni, F., Bolzano, G., Gaglione, R., Dragone, L., Ferrarotti, M., Taramanni, C.
+6603244621;7801529921;6506130612;55529597100;6602652199;55529733500;57194038442;6508129394;
+Ultrasound evaluation of the ovarian hyperstimulation syndrome
+(1987) Acta Europaea Fertilitatis, 18 (1), pp. 39-43.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0023257585&partnerID=40&md5=b2aa6f74906cd672ebfb11a5b6d65215
+
+ABSTRACT: 282 cycles in 106 women about to be artificially inseminated at the AIED Center in Rome have been studied by means of ultrasound monitoring in order to evaluate the incidence of the ovarian hyperstimulation syndrome. In none of the patients, either in pharmacologically stimulated cycles (82 in 36 women) or in non stimulated cycles (200 in 70 women) was moderate or severe hyperstimulation syndrome reported. Only a few mild cases occurred. In the non stimulated group only five cases with mild hyperstimulation occurred (2.5%). 31 pregnancies have been obtained (15.5% of all studied cycles). In the stimulated group 11 cases with signs of mild hyperstimulation occurred (13.4%) and 19 pregnancies were obtained (23.1% of the stimulated cycles). No twin pregnancy was observed. The only molar pregnancy reported occurred in this group. All signs of hyperstimulation - either in stimulated cycles or in non stimulated patients - regressed spontaneously in the same cycle and they were not detected by ultrasound monitoring in the subsequent cycle.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Wallbank, J., Whittigham, N.A.
+6604076680;6505617114;
+ARTIFICIAL INTELLIGENCE WITHIN AUSTIN ROVER.
+(1987) Computer-aided engineering journal, 4 (3), pp. 113-116.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0023365252&doi=10.1049%2fcae.1987.0027&partnerID=40&md5=56ae01fb951516ebff8436e9af8865b9
+
+DOI: 10.1049/cae.1987.0027
+ABSTRACT: The use of artificial intelligence (AI) techniques promises to be of great benefit to engineering design and manufacture. This article outlines the current preception of artificial intelligence within Austin Rover and gives examples of the present status of work on its application within the company. Education and training for AI are discussed, and the use of AI in forging tool design is examined
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Jones, M.
+55491034000;
+AI approaches to education: editorial
+(1986) Computational Intelligence, 2 (1), pp. 63-64. Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84990610007&doi=10.1111%2fj.1467-8640.1986.tb00070.x&partnerID=40&md5=e818c3610bcd65de6cf17b94cc0efc4d
+
+DOI: 10.1111/j.1467-8640.1986.tb00070.x
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Richer, M.H.
+7003916078;
+Applications of artificial intelligence in education--a personal view.
+(1985) Physiologist, 28 (5), pp. 428-431.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0022141029&partnerID=40&md5=250b9bccba9aea2fd46e511eb810bb7d
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Gilmore, John F.
+7102107720;
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE.
+(1984) pp. 109-128.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0021692363&partnerID=40&md5=b2259f53a04b8856805f0219d8763b34
+
+ABSTRACT: Artificial Intelligence (AI) is concerned with designing computer systems that exhibit the characteristics associated with intelligence in human behavior. It is the discipline of computer science dedicated to the concept that computers can be made intelligent, rather than to simulate intelligence. In recent years, artificial intelligence has been applied to a variety of areas including medicine, chemistry, machine vision, education, and geology. AI's success has lead to a wide spread interest in understanding and applying its concepts to a multitude of problem domains. To understand artificial intelligence one must understand the basic ideas for organizing knowledge, exploiting constraints, searching spaces, controlling attention, and learning. The purpose of this tutorial is to acquaint the participants with these basic ideas so they will be able to apply these AI techniques in their current work.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Hayase, F., Kim, S.B., Kato, H.
+57012887600;56317248300;35351732800;
+Decolorization and degradation products of the melanoidins by hydrogen peroxide
+(1984) Agricultural and Biological Chemistry, 48 (11), pp. 2711-2717. Cited 54 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0001276818&doi=10.1080%2f00021369.1984.10866581&partnerID=40&md5=25c82590d4c40ef08df6bdcfd30383e4
+
+DOI: 10.1080/00021369.1984.10866581
+ABSTRACT: Nondialyzable melanoidins prepared from a glucose-glycine system were incubated with glucose oxidase under optimal conditions and then the melanoidins were decolorized to 65%. The decolorization of melanoidins by glucose oxidase may be mainly caused by hydrogen peroxide produced from the enzyme-substrate reaction. Therefore, oxidative decomposition and decolorization of melanoidins were tried using hydrogen peroxide. Melanoidins were treated with hydrogen peroxide (final cone. 6.72%) under neutral (pH 7.0) and alkaline (pH 10.0) conditions at 37°C for 28 hr. Melanoidins were decolorized to 64% and 97%, respectively the under above optimum conditions. The mean molecular weight of melanoidins decreased from 5,300 to 3,500 after hydrogen peroxide treatment. The major components in the ether-soluble fraction obtained from melanoidins by oxidative degradation of alkaline hydrogen peroxide were identified as 2- methyl-2,4-pentanediol, Af,7V-dimethylacetamide, phenol, acetic acid, oxalic acid, methylpropane- dioic acid, propanedioic acid, 2-furancarboxylic acid, butanedioic acid, 2-hydroxypropanoic acid, 2,5-furandicarboxylic aied and 5-(hydroxymethyl)-2-furancarboxylic acid. On the other hand, the major degradation product in aqueous fraction was identified as glycine, and glycine was produced in 1.73% yield per nondialyzable melanoidin. © 1984 by the Agricultural Chemical Society of Japan.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kaihara, S., Koyama, T., Minamikawa, T., Aida, K., Yasaka, T., Komatsu, T., Nakano, K.
+7007117291;57651989900;7005571104;7102911564;7005801014;7402653268;7402011440;
+A Physicians' Consultation System by Means of Artificial Intelligence Technique
+(1979) Japanese journal of medical electronics and biological engineering, 17 (1), pp. 73-77. Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0018437981&doi=10.11239%2fjsmbe1963.17.73&partnerID=40&md5=9f8578c29f6d1fb21537e24d80f760c9
+
+DOI: 10.11239/jsmbe1963.17.73
+ABSTRACT: Bayes' theorem and multivariate analyses have been used to simulate the process of medical diagnoses. However, in these studies some mathematical models had to be assumed, which are not necessarily related to the real process of physicians' diagnoses. Because of this fact, the results of these studies Were sometimes difficult to evaluate. Physicians usually make decisions according to some rules which were obtained in their, long experiences. If there are some methods which can simulate the same process as physicians, the methods will be more acceptable in the field of medical decision making by computers. “MYCIN” developed by Shortliffe and others demonstrated this possibility by using the methods of artificial intelligence techniques. On the basis of similar considerations, we have developed a program named “MECS-AI” (Medical Consultation and Education System by Artificial Intelligence) which makes diagnoses and suggests treatments in cardiovascular diseases. In this study rules which physicians use for the diagnosis and treatments were collected. The rules were organized in the form of premises and actions. When some data of a patient are given to the system, the system searches the premises of the rules and find the ones to apply to take proper actions. Then with this tentative conclusion, it continues to search for the next rules until it reaches some conclusions. The program is written in LISP language. This system is now being evaluated by cardiologists of the University of Tokyo Hospital. It seems that this system has wide area of applications in physicians' consultation and medical education. © 1979, Japanese Society for Medical and Biological Engineering. All rights reserved.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Robertson, M.
+57196641118;
+Artificial intelligence in education
+(1976) Nature, 262 (5568), pp. 435-437. Cited 5 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0017126104&doi=10.1038%2f262435a0&partnerID=40&md5=ad6c5e4cefeac264060f178af40f7bad
+
+DOI: 10.1038/262435a0
+ABSTRACT: Miranda Robertson discusses research aimed at exploiting computers in human communication and teaching © 1976 Nature Publishing Group.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Bronze
+SOURCE: Scopus
+
+Klüver, H.
+55189281100;
+Eidetic phenomena
+(1932) Psychological Bulletin, 29 (3), pp. 181-203. Cited 36 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-58149423503&doi=10.1037%2fh0070381&partnerID=40&md5=9c8f33a1870cb4cdb245411b9a413163
+
+DOI: 10.1037/h0070381
+ABSTRACT: A review of 127 titles. During recent years the majority of investigators have been more interested in eidetic images as indicators of personality trends than in eidetic imagery itself. Studies have been made of perceptual, imaginal, etc., functions in adults in the light of facts previously arrived at by eidetic research on children; and the distinction between "integrated" and "non-integrated" types has frequently been a central one. Correlations and relationships have been studied between EI, on the one hand, and intelligence, art, education, AI and MI, Purkinje phenomenon, and capillaroscopy. The reviewer criticizes group examinations in favor of individual ones. (PsycINFO Database Record (c) 2006 APA, all rights reserved). © 1932 American Psychological Association.
+AUTHOR KEYWORDS: ATTENTION, MEMORY AND THOUGHT;  EIDETIC IMAGERY;  IMAGERY, EIDETIC
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Waterworth, N.
+56945537600;
+My Visit to Arnerica aIed England
+(1926) The Australasian Journal of Optometry, 8 (4), pp. 455-457.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84946389665&doi=10.1111%2fj.1444-0938.1926.tb00891.x&partnerID=40&md5=d90a75dfb515918a9ab88346855c7eb3
+
+DOI: 10.1111/j.1444-0938.1926.tb00891.x
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus

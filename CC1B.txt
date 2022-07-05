@@ -1,0 +1,280 @@
+DOI: 10.1007/11553939_183
+ABSTRACT: This paper discusses learning contents design from the viewpoint of knowledge level and symbol level. The purpose of study is to develop a foundation for share and reuse of IESs on a global platform. SCORM2004 is becoming de facto standard so we choice it as the basis of the platform. On the platform we aim to build an environment for authors to clarify pedagogical meaning of learning contents based an ontology for IESs. This approach will allow us to share and reuse academic and technical expertise in the field of AIED research on common platform. © Springer-Verlag Berlin Heidelberg 2005.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Greenwald, L., Artz, D.
+12805547000;55894642900;
+Teaching artificial intelligence with low-cost robots
+(2004) AAAI Spring Symposium - Technical Report, 1, pp. 35-40. Cited 22 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-22244470103&partnerID=40&md5=c8b4197469761f78252c72d31e037081
+
+ABSTRACT: The teaching of artificial intelligence (AI) to graduates with the help of low cost robots is discussed. The use of these platforms to achieve AI education goals was discussed, assuming as basic engineering and computer science lessons as prerequisites. Since an educator choosing a specific robotics platform is limited to the educational exercises with that platform, a typical educational goal of teaching localization was focused upon. The tradeoffs an educator must face when deciding to employ low-cost robots in AI education was also discussed using localization as an example exercise.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Luckin, R., Underwood, J., Boulay, B.D., Holmberg, J., Tunley, H.
+35608174500;22434161200;6602083684;8879904400;16168475300;
+Coherence compilation: Applying AIED techniques to the reuse of educational TV resources
+(2004) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 3220, pp. 98-107. Cited 3 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-35048876258&doi=10.1007%2f978-3-540-30139-4_10&partnerID=40&md5=2c1fcc51da8c3f994de5418db8ae00c7
+
+DOI: 10.1007/978-3-540-30139-4_10
+ABSTRACT: The HomeWork project is building an exemplar system to provide individualised experiences for individual and groups of children aged 6-7 years, their parents, teachers and classmates at school. It employs an existing set of broadcast video media and associated resources that tackle both numeracy and literacy at Key Stage 1. The system employs a learner model and a pedagogical model to identify what resource is best used with an individual child or group of children collaboratively at a particular learning point and at a particular location. The Coherence Compiler is that component of the system which is designed to impose an overall narrative coherence on the materials that any particular child is exposed to. This paper presents a high level vision of the design of the Coherence Compiler and sets its design within the overall framework of the HomeWork project and its learner and pedagogical models. © Springer-Verlag 2004 References.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Green
+SOURCE: Scopus
+
+El-Sheikh, E., Sticklen, J.
+57203545639;7003758173;
+Using hierarchical classification-based expert systems to support tutoring
+(2003) Proceedings of the International Conference on Artificial Intelligence IC-AI 2003, 2, pp. 636-642. Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-1642376990&partnerID=40&md5=273469597eece157a39da4f6e5c6744a
+
+ABSTRACT: This work addresses the need for reusable intelligent tutoring systems by leveraging the Generic Task (GT) expert systems development methodology. The GT approach defines basic "tasks" - problem solving strategies and corresponding knowledge representation templates - from which complex problem solving may be decomposed. We describe the use of a GT-based expert system, specifically a Hierarchical Classification-based system, to generate a tutoring system for the domain knowledge represented in that system. Our approach facilitates the reuse of tutoring components; the architecture developed can be used in conjunction with any HC-based expert system, effectively allowing the same tutoring components to be plugged in with different domain knowledge bases.
+AUTHOR KEYWORDS: AI in education;  Expert systems;  Intelligent tutoring systems;  Reasoning strategies
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Sykes, E.R., Franek, F.
+9745341600;35609585400;
+A Prototype for an Intelligent Tutoring System for Students Learning to Program in Java™
+(2003) Proceedings of the IASTED International Conference on Computers and Advanced Technology in Education, pp. 78-83. Cited 19 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-1542747749&partnerID=40&md5=c1dd6ab0467496335b19e787f3a83bcd
+
+ABSTRACT: The "Java™ Intelligent Tutoring System" (JITS) research project involves the development of a programming tutor designed for students in their first programming course in Java™ at the College and University level. This paper presents an overview of the architectural design including state-of-the-art web-based distributed architecture, the AI techniques used, and the programmer-optimized user interface. This project is a prototype being constructed which will model the domain of a small subset of the Java™ programming language in a very specific context. Research is in progress and it is hypothesized that the completed prototype will be sufficient to prove the concept and that a fully developed Java™ Intelligent Tutoring System will provide an interactively-rich learning environment for students that will result in increased achievement. Based on the success of similar Intelligent Tutoring Systems, it is also hypothesized that these students will be able to learn programming skills and knowledge more quickly and effectively than students in traditional educational settings.
+AUTHOR KEYWORDS: Artificial Intelligence in Education;  Intelligent Tutoring Systems;  Programming Tutors;  Web-Based Education
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Senatori, R., Dionisi, B., Lippa, P., Inghirami, P.
+7801617764;6507139109;6507089817;6506514187;
+Topical imiquimod cream in the treatment of external anogenital warts: Personal experience [Utilizzo dell'imiquimod nel trattamento della condilomatosi ano-genitale: Nostra esperienza]
+(2003) Minerva Ginecologica, 55 (6), pp. 541-546. Cited 4 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0842305891&partnerID=40&md5=baf3713d75a947c61c95def30dc0d14f
+
+ABSTRACT: Aim. The clinical effects of home-therapy with 5% imiquimod cream in the treatment of cutaneous anogenital warts are evaluated. Methods. From March 2000 to January 2002, 57 women presenting clinical cutaneous external genital and perianal warts were selected in the base-population observed at our clinical of vulvar pathology and sexually trasmitted diseases, AIED Rome. The patients were divided into 2 groups: Group A, with new cutaneous viral lesions and Group B with recurrent anogenital warts pre-treated with CO2-laser therapy. A total of 36% (20) of all patients presented contemporaneous HPV lesions of cervix and/or vaginal wall. The follow-up was carried out at 4 weeks, 3 months and 6 months, evaluating the safety, clinical efficacy and tolerance of women. The Pearson χ2 test was used to evaluate trends significance. All lesions were photo-documented. Results. Sixty-four per cent (64%) of the patients had complete clearance of anogenital warts within 16 weeks, for 3 times per week self-application of imiquimod, with clinical remission at short term (6/8 weeks) (χ2=1.42; p&lt;0.05); 12% had partial clearance (&lt;50%) and 20% had a clearance of about 75%. The coexistent lesions of cervix and/or vaginal walls had a high remission (&gt;50%) and required surgical additional therapy with CO2-laser; 28% of patients (16/57) experienced mild to moderate drug-related side effects. There was a significant increase in the severity of local skin reactions due to the increased time and number of applications. Conclusion. These data confirm that imiquimod cream at the dose regimen of 3 times per week, is effective and well tolerated in the treatment of cutaneous external warts and is associated to a reduction of coexistent mucous viral lesions due to enhancement of local immune response.
+AUTHOR KEYWORDS: Aminoquinolines;  Condilomata acuminata;  Warts anogenital
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Aleven, V.
+6602528401;
+Using background knowledge in case-based legal reasoning: A computational model and an intelligent learning environment
+(2003) Artificial Intelligence, 150 (1-2), pp. 183-237. Cited 107 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0142228346&doi=10.1016%2fS0004-3702%2803%2900105-X&partnerID=40&md5=4db09579f7c2e3cde519a38208dc370c
+
+DOI: 10.1016/S0004-3702(03)00105-X
+ABSTRACT: Researchers in the field of AI and Law have developed a number of computational models of the arguments that skilled attorneys make based on past cases. However, these models have not accounted for the ways that attorneys use middle-level normative background knowledge (1) to organize multi-case arguments, (2) to reason about the significance of differences between cases, and (3) to assess the relevance of precedent cases to a given problem situation. We present a novel model, that accounts for these argumentation phenomena. An evaluation study showed that arguments about the significance of distinctions based on this model help predict the outcome of cases in the area of trade secrets law, confirming the quality of these arguments. The model forms the basis of an intelligent learning environment called CATO, which was designed to help beginning law students acquire basic argumentation skills. CATO uses the model for a number of purposes, including the dynamic generation of argumentation examples. In a second evaluation study, carried out in the context of an actual legal writing course, we compared instruction with CATO against the best traditional legal writing instruction. The results indicate that CATO's example-based instructional approach is effective in teaching basic argumentation skills. However, a more "integrated" approach appears to be needed if students are to achieve better transfer of these skills to more complex contexts. CATO's argumentation model and instructional environment are a contribution to the research fields of AI and Law, Case-Based Reasoning, and AI and Education. © 2003 Elsevier B.V. All rights reserved.
+AUTHOR KEYWORDS: AI and Law;  Case-based reasoning;  Intelligent learning environments;  Intelligent tutoring systems;  Modeling argumentation;  Similarity assessment
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Bronze
+SOURCE: Scopus
+
+Dimitrova, V.
+56265365000;
+STyLE-OLM: Interactive open learner modelling
+(2003) International Journal of Artificial Intelligence in Education, 13 (1), pp. 35-78. Cited 123 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85013579157&partnerID=40&md5=8f3c3b9045b704071ccbc126e271a4ec
+
+ABSTRACT: There is a strong argument in Artificial Intelligence in Education which advocates that computer-based learning systems need to adapt to the needs of learners if they are to provide for effective personalised instruction (Self, 1999a). Diagnosing a learner’s cognitive capacity is a crucial issue in building adaptive systems. We have explored an interactive open learner modelling (IOLM) approach which conceives diagnosis as an interactive process involving both a computer system and a learner that discuss and together construct the learner model. This paper outlines the architecture of an interactive open learner modelling system and illustrates the method in a terminological domain. We discuss an evaluative study of an IOLM demonstrator - a system called STyLE-OLM. The results from the study demonstrate potential benefits of the method for improving the quality of the learner model and providing a means for fostering reflective thinking. We argue that IOLM is a fruitful approach which may be employed in intelligent learning environments both for obtaining a better model of a learner’s cognitive state and engaging learners in reflective activities. © 2003 - IOS Press.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Dimitrova, V., Bontcheva, K.
+56265365000;6602790600;
+The use of conceptual graphs for interactive student modelling and adaptive Web explanations
+(2003) Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science), 2774 PART 2, pp. 230-237. Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-8344263843&doi=10.1007%2f978-3-540-45226-3_32&partnerID=40&md5=029b84b5cb5b99041ba22efa8e945049
+
+DOI: 10.1007/978-3-540-45226-3_32
+ABSTRACT: The paper discusses the use of domain ontologies encoded with conceptual graphs in two recent works in Artificial Intelligence in Education and Natural Language Processing: STyLE-OLM (an interactive learner modelling system that extracts extended models of the learners' cognition) and HYLITE+ (a natural language generation system that generates adaptive Web pages based on a learner model).
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Harrer, A.
+6602832111;
+Software engineering methods for re-use of components and design in educational systems
+(2003) International Journal of Computers and Applications, 25 (1), pp. 17-23. Cited 12 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0037282028&doi=10.1080%2f1206212X.2003.11441681&partnerID=40&md5=de65e11ea32897888781e0bef00e018c
+
+DOI: 10.1080/1206212X.2003.11441681
+ABSTRACT: Developing intelligent tutoring systems from scratch every time one changes the platform or exchanges the knowledge domain takes an enormous amount of both time and money. The authors introduce methods from software engineering into the AIED (Artificial Intelligence in Education) community that can help to reduce the amount of resources that has to be put into the maintenance of educational systems when the requirements change (such as porting the system from one specific platform to a web-based system or extending its functionality). They present-techniques for the re-use of essential parts of large existing systems that are difficult to change (called legacy systems), as well as approaches to provide a general structure and concrete components for specific uses, which can simply be used in (plugged into) new systems. They also show the possibility of restructuring existing design and implementation to introduce new functionality and more easily increase flexibility.
+AUTHOR KEYWORDS: Educational applications;  ITS;  Software engineering
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Tang, T.Y., McCalla, G.
+7401988695;57204439737;
+Student modeling for a web-based learning environment: A data mining approach
+(2002) Proceedings of the National Conference on Artificial Intelligence, pp. 967-968. Cited 32 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0036928036&partnerID=40&md5=276eaaae86954ba19172d16de9466fdf
+
+ABSTRACT: The data mining techniques incorporated with web learning environments to enhance the overall qualities of learning were discussed. In an learning system, both learners' browsing behaviors and course content are important to derive learners' learning levels, intentions, goals, interests or abilities. Artificial intelligence in education (AIED) systems employ a knowledge base, a student model and instructional plans.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Azevedo, R.
+18036509700;
+Beyond intelligent tutoring systems: Using computers as METAcognitive tools to enhance learning?
+(2002) Instructional Science, 30 (1), pp. 31-45. Cited 44 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0036112015&doi=10.1023%2fA%3a1013592216234&partnerID=40&md5=9c66980bd8f298b1e9f4a52b7d8b34a6
+
+DOI: 10.1023/A:1013592216234
+ABSTRACT: Framed by the existing theoretical and empirical research on cognitive and intelligent tutoring systems (ITSs), this commentary explores two areas not directly or extensively addressed by Akhras and Self (this issue). The first area focuses on the lack of conceptual clarity of the proposed constructivist stance and its related constructs (e.g., affordances, situations). Specifically, it is argued that a clear conceptualization of the novel constructivist stance needs to be delineated by the authors before an evaluation of their ambitious proposal to model situations computationally in intelligent learning environments (ILEs) can be achieved. The second area of exploration deals with the similarities between the proposed stance and existing approaches documented in the cognitive, educational computing, and AI in education literature. I believe that the authors are at a crossroads, and that their article presents an initial conceptualization of an important issue related to a constructivist-based approach to the computational modeling of situations in ILEs. However, conceptual clarity is definitively required in order for their approach to be adequately evaluated and used to inform the design of ILEs. As such, I invite the authors to re-conceptualize their framework by addressing how their constructivist stance can be used to address a particular research agenda on the use of computers as metacognitive tools to enhance learning.
+AUTHOR KEYWORDS: Intelligent learning environments;  Intelligent tutoring systems;  Metacognition;  Self-regulated learning
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Mizoguchi, R., Bourdeau, J.
+7006017969;57207587047;
+Theory-aware authoring environment-ontological engineering approach
+(2002) Proceedings - International Conference on Computers in Education, ICCE 2002, art. no. 1186342, pp. 1553-1554. Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84861645732&doi=10.1109%2fCIE.2002.1186342&partnerID=40&md5=14bf3546279bbb7c1ea3b317350c864c
+
+DOI: 10.1109/CIE.2002.1186342
+ABSTRACT: In AI in education research community and related academic communities such as learning science (LS), instructional science (IS) and instructional design science (ID), a lot of research results have already accumulated and many sophisticated learning support systems have been built to date. The problem, however, is that it is not easy to build a good learning support system well-justified by such basic theories because they are not easily accessible for system designers/developers nor ready for engineering use. Imagine a theory-aware authoring environment, which can help designers/developers find, understand and utilize necessary LS/IS/ID theories to build a theory-justified learning support system. It must give a great impact on our community. The authors have some experience in building ontologies for learning support systems and LS/IS/ID knowledge as well as a road map towards a theory-aware authoring system. On the basis of development of a general framework of an ITS, we first designed a comprehensive ontology for ITS. © 2002 IEEE.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Devedzic, V., Harrer, A.
+55902918300;6602832111;
+Architectural patterns in pedagogical agents
+(2002) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2363, pp. 81-90. Cited 9 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-22944491907&doi=10.1007%2f3-540-47987-2_13&partnerID=40&md5=925bbe8d4660335117468682edf278c6
+
+DOI: 10.1007/3-540-47987-2_13
+ABSTRACT: One possible way to start from a firm and stable engineering backbone when developing the architecture of an Intelligent Tutoring System (ITS) is to use patterns for ITS architectures. Speaking architecturally, a pattern is a generalized solution of a typical problem within a typical context. Knowledge of patterns and using them definitely brings more engineering flavor to the field of ITS. It is also important to stress that it does not mean abandoning learning theories, teaching expertise, curriculum structuring, or instruction delivery as the cornerstones of any intelligent tutor. Using patterns is just taking more care about AIED systems themselves, especially about the way we develop them. This paper presents new results of our continuous efforts to analyze well-known ITS architectures from the patterns perspective. © Springer-Verlag Berlin Heidelberg 2002.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Wutz, K., Sauer, C., Zrenner, E., Lorenz, B., Alitalo, T., Broghammer, M., Hergersberg, M., de La Chapelle, A., Weber, B.H.F., Wissinger, B., Meindl, A., Pusch, C.M.
+6507875694;57197390528;7102983509;7101771144;6701791777;6602486322;7003963009;35393340400;57203495476;57200775813;57203175471;7005352561;
+Thirty distinct CACNA1F mutations in 33 families with incomplete type of XLCSNB and CACNA1F expression profiling in mouse retina
+(2002) European Journal of Human Genetics, 10 (8), pp. 449-456. Cited 62 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-0035991631&doi=10.1038%2fsj.ejhg.5200828&partnerID=40&md5=2be4a4615658ebb2e6a0af75e8080b30
+
+DOI: 10.1038/sj.ejhg.5200828
+ABSTRACT: X-linked CSNB patients may exhibit myopia, nystagmus, strabismus and ERG abnormalities of the Schubert-Bornschein type. We recently identified the retina-specific L-type calcium channel α1 subunit gene CACNA1F localised to the Xp11.23 region, which is mutated in families showing the incomplete type (CSNB2). Here, we report comprehensive mutation analyses in the 48 CACNA1F exons in 36 families, most of them from Germany. All families were initially diagnosed as having the incomplete type of CSNB, except for two which have been designated as Åland Island eye disease (ÅIED)-like. Out of 33 families, a total of 30 different mutations were identified, of which 24 appear to be unique for the German population. The mutations, 20 of which are published here for the first time, were found to be equally distributed over the entire gene sequence. No mutation could be found in a classic AIED family previously shown to map to the CSNB2 interval. Cacna1f expression in photoreceptor-negative mice strains indicate that the gene is expressed in the outer nuclear, the inner nuclear, and the ganglion cell layer. Such a distribution points to the central role of calcium regulation in the interaction of retinal cells that mediate signal transmission.
+AUTHOR KEYWORDS: CSNB2;  Mutation screening;  Ophthalmogenetics
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Bronze
+SOURCE: Scopus
+
+Heintz, F., Kummeneje, J., Scerri, P.
+6603720152;55389033200;6603813970;
+Using simulated RoboCup in undergraduate education
+(2001) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2019 LNAI, pp. 309-314. Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-62449292455&partnerID=40&md5=ce9dbb397740c32772a23df6995f592d
+
+ABSTRACT: We argue that RoboCup can be used to improve the teaching of AI in undergraduate education. We give some examples of how AI courses using RoboCup can be implemented using a problem based approach at two different Universities. To reduce the negative aspects found we present a solution, with the aim of easing the burden of grasping the domain of RoboCup for the students, RoboSoc which is a general framework for developing simulated RoboCup agents. © 2001 Springer-Verlag Berlin Heidelberg.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Jones, R.A., Lancaster, K.A.S.
+8209709900;22938002100;
+Process mapping and scripting in the Accounting Information Systems (AIS) curriculum
+(2001) Accounting Education, 10 (3), pp. 263-278. Cited 6 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84978521672&doi=10.1080%2f09639280210121808&partnerID=40&md5=61f2a54b5ac6544ae61e2b9d993fcb4d
+
+DOI: 10.1080/09639280210121808
+ABSTRACT: The ability to understand, document, and suggest improvements for a business process is an important skill for an accounting student for the following reasons: (1) efficient business processes give businesses a competitive advantage; (2) business process analysis provides auditors with an assessment of business risk; and (3) successful enterprise resource planning implementation depends on understanding and improving existing business processes. It is suggested that students be introduced to process mapping and scripting in an accounting information systems (AIS) course to facilitate their understanding of business processes and help them visualize the interaction between functional areas. The specifics of process mapping are covered and advantages of incorporating process mapping into the AIS curriculum discussed. It is also proposed that scripting, which is used to facilitate configuration, testing of ERP software and communication between the accountant and the programmer, be included in the AIS course. Finally, suggestions for classroom activities are included. © 2001, Taylor & Francis Group, LLC.
+AUTHOR KEYWORDS: Ais Curriculum;  Ais Education;  Business Processes;  Process Mapping;  Scripting
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Green
+SOURCE: Scopus
+
+Gong, S., Yu, D., Yang, Y., Huang, X., Wang, J.
+56768755700;57206972783;57211149979;27171445000;7701311871;
+Relationship between three inner ear antigens and autoimmune inner ear disease
+(2001) Zhonghua er bi yan hou ke za zhi, 36 (4), pp. 285-288.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-1542393581&partnerID=40&md5=48cedec05ee5b355c2261754bbe80901
+
+ABSTRACT: OBJECTIVE: To investigate the relationship between three purified inner ear antigens and autoimmune inner ear disease (AIED), and to determine their expressions in normal guinea pig cochleas. METHODS: Guinea pigs were divided into group B, group C and group D and immunized respectively with three subcomponents of crude inner ear antigens (31,000, 42,000-45,000 and 60,000 proteins). Hearing thresholds, serum IgG levels and morphological changes of inner ear were observed. The protein expressions of these antigens were examined by immunohistochemistry. In the control group, antigens were replaced by gel homogenate of polyacrylamide. RESULTS: There were no significant differences of hearing threshold among groups before immunization with inner ear antigens (F = 0.07, P > 0.05). There were no significant changes of hearing thresholds and inner ear morphology in group C and control group. Hearing thresholds dropped in part of animals immunized with 31,000 or 60,000 protein. Hearing threshold of group B and D changed significantly after immunization, as compared with the control group(F = 9.12, P < 0.01). Serum IgG levels increased significantly in all experimental groups compared with the control group(F = 7.46, P < 0.01). The 31,000 protein distributed strictly in cochlear nerve, and 42,000-45,000 or 60,000 protein distributed widely, including the spiral ganglion, Corti's organ, stria vascularis and spiral ligament. CONCLUSIONS: Two subcomponents of 31,000 and 60,000 in crude inner ear antigen could induce autoimmune inner ear disease. The distribution of 31,000 protein was more tissue specific and might be used as a marker protein for clinical diagnosis of autoimmune inner ear disease.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Doroudi, S., Aleven, V., Brunskill, E.
+57190766981;6602528401;15762040900;
+Where’s the Reward?: A Review of Reinforcement Learning for Instructional Sequencing
+(2000) International Journal of Artificial Intelligence in Education, 29 (4), pp. 568-620. Cited 15 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075246487&doi=10.1007%2fs40593-019-00187-x&partnerID=40&md5=a018aeb4e47b76837ed9c5ad26b767b3
+
+DOI: 10.1007/s40593-019-00187-x
+ABSTRACT: Since the 1960s, researchers have been trying to optimize the sequencing of instructional activities using the tools of reinforcement learning (RL) and sequential decision making under uncertainty. Many researchers have realized that reinforcement learning provides a natural framework for optimal instructional sequencing given a particular model of student learning, and excitement towards this area of research is as alive now as it was over fifty years ago. But does RL actually help students learn? If so, when and where might we expect it to be most helpful? To help answer these questions, we review the variety of attempts to use RL for instructional sequencing. First, we present a historical narrative of this research area. We identify three waves of research, which gives us a sense of the various communities of researchers that have been interested in this problem and where the field is going. Second, we review all of the empirical research that has compared RL-induced instructional policies to baseline methods of sequencing. We find that over half of the studies found that RL-induced policies significantly outperform baselines. Moreover, we identify five clusters of studies with different characteristics and varying levels of success in using RL to help students learn. We find that reinforcement learning has been most successful in cases where it has been constrained with ideas and theories from cognitive psychology and the learning sciences. However, given that our theories and models are limited, we also find that it has been useful to complement this approach with running more robust offline analyses that do not rely heavily on the assumptions of one particular model. Given that many researchers are turning to deep reinforcement learning and big data to tackle instructional sequencing, we believe keeping these best practices in mind can help guide the way to the reward in using RL for instructional sequencing. © 2019, International Artificial Intelligence in Education Society.
+AUTHOR KEYWORDS: Adaptive instruction;  History of artificial intelligence in education;  Instructional sequencing;  Reinforcement learning
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+McDonald, P.G.
+57195580477;
+Using algorithm animations to assist teaching state space search: An empirical evaluation
+(2000) ACM International Conference Proceeding Series, Part F129121, pp. 174-181.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85028947678&doi=10.1145%2f359369.359395&partnerID=40&md5=7d30d4005f70fd06232fba606c71ea03
+
+DOI: 10.1145/359369.359395
+ABSTRACT: Traditional laboratory activities for students trying to develop a deep understanding of state space search methods involves them working at programming implementations of search methods. This study aimed to determine if interactive algorithm animations of search methods would make a suitable alternative laboratory activity. The specific hypotheses investigated were: (i) the animation group would develop at least as good an overall understanding of state space search methods; (ii) the animation group would develop a deeper understanding of state space search concepts pertaining to qualitative characteristics of search methods and the relationship between search methods. The basic experimental method adopted was a classical empirical quantitative evaluation Involving 30 participants divided into one control group and one experimental group. All participants attended the same lecture presentations on state space search methods, but were split into distinct groups for undertaking the laboratory activities. Results provided good evidence that the animation laboratory activity was at least as effective as traditional programming activities in aiding understanding of state space search methods, and that the animation group students developed a deeper understanding of one aspect of state space search methods. © 2000 ACM.
+AUTHOR KEYWORDS: AI Education;  Algorithm Animation;  Empirical Evaluation; State Space Search Methods
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Lelouche, R.
+6507705803;
+The various benefits of education from computers: An integrative review
+(2000) Proceedings - International Workshop on Advanced Learning Technologies: Advanced Learning Technology: Design and Development Issues, IWALT 2000, art. no. 890550, p. 7.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893537984&doi=10.1109%2fIWALT.2000.890550&partnerID=40&md5=46a87f2718e0c1c2d09428f4f31f7e68
+
+DOI: 10.1109/IWALT.2000.890550
+ABSTRACT: The present popularity of the Internet and of artificial intelligence in education is not due to new concepts, new ideas, new methods, or new technology, but mainly to the synergy resulting from these and from an increased availability of hardware and software, and to a wider interaction between the different partners implied in the educational process. At present, these partners, i.e. the teacher, the program developer, and the domain specialist, are surprised by all the possibilities offered by this new synergy. This talk is aimed at orderly presenting the various aspects of what computers have brought, are bringing, and are about to bring, to education. © 2000 IEEE.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+du Boulay, B.
+6602083684;
+Can we learn from ITSs?
+(2000) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 1839, pp. 9-17. Cited 14 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84944325400&doi=10.1007%2f3-540-45108-0_3&partnerID=40&md5=b8d0b1986580dfa39ad881604c3ba78b
+
+DOI: 10.1007/3-540-45108-0_3
+ABSTRACT: With the rise of VR, the internet, and mobile technologies and the shifts in educational focus from teaching to learning and from solitary to collaborative work, it’s easy (but mistaken) to regard Artificial Intelligence in Education, in general, and Intelligent Tutoring Systems, in particular, as a technology that has had its day-an old solution looking for a new problem. The issues of modeling the student, the domain or the interaction are still very much to the fore, and we can learn much from the development of ITSs. Despite the changes in technology and in educational focus there is still an ongoing desire for educational and training systems to tailor their interactions to suit the individual learner or group of learners: for example, by being able to deal appropriately with a wider range of background knowledge and abilities; by helpfully limiting the scope for the learner to tailor the system; by being better able to help learners reflect productively on the experience they have had or are about to have; by being able to select and operate effectively over a wider range of problems within the domain of interest; by being able to monitor collaborative interchanges and intervene where necessary; or, most tellingly, by being able to react sensibly to learners when the task they are engaged on is inherently complex and involves many coordinated steps or stages at different levels of granularity. Individualising instruction in an effective manner is the Holy Grail of ITS work and it is taken as an article of faith that this is a sensible educational goal. This paper explores the question of how much educational difference the “AI” in an ITS system makes compared either to conventional classroom teaching or to conventional CAI methods. One criterion of educational effectiveness might be the amount of time it takes students to reach a particular level of achievement. Another might be an improvement in achievement levels, given the same time on task. So the paper surveys the recent past for ITS systems that have been evaluated against unintelligent versions or against traditional classroom practice and finds cause for optimism in that some of the techniques and solutions found can be applied in the present and the future. © Springer-Verlag Berlin Heidelberg 2000.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Yan, Z., Gong, S., Huang, X., Huang, X., wang, J.
+57214063347;56768755700;27171445000;57212165352;7701311871;
+Expression of heat shock protein 70 in immune response of the guinea pig inner ear
+(2000) Zhonghua er bi yan hou ke za zhi, 35 (2), pp. 109-112.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-2142661805&partnerID=40&md5=6a7ec8af5f68300e86384cda147ff88a
+
+ABSTRACT: OBJECTIVE: To explore whether the immune response of the inner ear could induce heat shock protein (hsp) 70 in guinea pig cochlea. METHODS: A model of autoimmune inner ear disease (AIED) was established by systemically immunizing the guinea pig with the homologous crude inner ear antigen (CIEAg). The immunized cochleae and normal control cochleae were examined for the expression of hsp70 with techniques of immunohistochemistry and in situ hybridization. RESULTS: In the control animals, the expression of the hsp70-like protein appeared only in the spiral ganglion, whereas in the cochleae with CIEAg immunization, strong expression of the hsp70-like protein and its mRNA appeared in the spiral ganglion as well as in the stria vascularis and the spiral ligament. The hearing thresholds were significantly increased in 10 out of 28 cochleae (35.7%) with CIEAg immunization. CONCLUSION: The results suggest that the immune response of the inner ear can induce the expression of hsp70 in the guinea pig cochlea.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Wang, P., Wu, Z., Xiao, B., Wu, T.
+57211094348;57198579134;57207168335;7404815278;
+The role of heat shock protein 70 and its autoantibody in experimental autoimmune inner ear disease
+(2000) Zhonghua er bi yan hou ke za zhi, 35 (1), pp. 10-13.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-2142659012&partnerID=40&md5=674583804b9f6e17d7dc1a0e38495f72

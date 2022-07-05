@@ -1,0 +1,755 @@
+ABSTRACT: The Model AI Assignments session seeks to gather and disseminate the best assignment designs of the Artificial Intelligence (AI) Education community. Recognizing that assignments form the core of student learning experience, we here present abstracts of eight AI assignments that are easily adoptable, playfully engaging, and flexible for a variety of instructor needs. Assignment specifications and supporting resources may be found at http://modelai. gettysburg.edu. Copyright © 2010, Association for the Advancement of Artificial Intelligence (www.aaai.org). All rights reserved.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Gennari, R., Di Mascio, T., De Gasperis, G.
+55797199400;6507743157;6601980656;
+Time representation and reasoning for a story-telling web tool - The state of the art
+(2009) Proceedings of the 17th International Conference on Computers in Education, ICCE 2009, pp. 162-166. Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84857099111&partnerID=40&md5=d46ba443f0542f2a9cef03aa2c86f373
+
+ABSTRACT: We are working on a story-telling web tool for primary-school classes. The tool should allow teachers to create or modify short stories, and elaborate temporal reasoning games that stimulate children to reason on the time dimension of stories. In this paper, we review the major theories and tools for qualitative temporal reasoning, studying two facets of time, relevant for such a tool: representation and reasoning.
+AUTHOR KEYWORDS: Artificial intelligence in education architectures (web-based);  Interaction design;  Knowledge modelling and representation
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Dow, K.E., Shea, V.J., Waldrup, B.E.
+7006364400;52164496400;52164883400;
+Daytona dreams restaurant: Linking accounting systems with business valuation
+(2009) Journal of Information Systems, 23 (1), pp. 119-136. Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-80052830491&doi=10.2308%2fjis.2009.23.1.119&partnerID=40&md5=b021e1f6a81146421d7a1afb52c6d33e
+
+DOI: 10.2308/jis.2009.23.1.119
+ABSTRACT: A problem encountered in accounting information systems (AIS) education is that students sometimes do not understand how organizational risks affect firm value. This case presents a privately held restaurant that is currently under acquisition consideration by a publicly traded restaurant group that follows internal control guidance as stipulated by the Committee of Sponsoring Organizations (COSO) guidelines. The objective of this case is to present students with a causal link among (1) internal control weaknesses of a restaurant, (2) financial statement assertions, and (3) management decisions that can impact firm value. Students must identify and translate control weaknesses into the case's business valuation decision. The case is appropriate for undergraduate and graduate AIS and audit classes.
+AUTHOR KEYWORDS: Business valuation;  Internal controls;  Risk assessment
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Lynch, C., Ashley, K.D., Pinkwart, N., Aleven, V.
+14048865700;7005232254;55903827500;6602528401;
+Concepts, structures, and goals: Redefining Ill-definedness
+(2009) International Journal of Artificial Intelligence in Education, 19 (3), pp. 253-266. Cited 58 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-78649537940&partnerID=40&md5=b40c441fc7f0b1cf0c113912d9645385
+
+ABSTRACT: In this paper we consider prior definitions of the terms "ill-defined domain" and "ill-defined problem". We then present alternate definitions that better support research at the intersection of Artificial Intelligence and Education. In our view both problems and domains are ill-defined when essential concepts, relations, or criteria are un- or underspecified, open-textured, or intractable requiring a solver to recharacterize them. This definition focuses on the core structural and pedagogical features that make problems and domains ill-defined while providing a consistent and functional frame of reference for this special issue and for future work in this area. The concept of ill-definedness is an open-textured concept where no single static definition exists. We present the most suitable definition for the present goals of facilitating research in AI and Education, and addressing the pedagogical need to focus learners on addressing this ambiguity. © 2009 - IOS Press and the authors. All rights reserved.
+AUTHOR KEYWORDS: Argumentation;  Ill-defined domains;  Ill-defined problems;  Metacognition
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Hayashi, Y., Bourdeau, J., Mizoguchi, R.
+56429926000;57207587047;7006017969;
+Using ontological engineering to organize learning/instructional theories and build a theory-aware authoring system
+(2009) International Journal of Artificial Intelligence in Education, 19 (2), pp. 211-252. Cited 50 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-77749283850&partnerID=40&md5=a839f9521d5e2de33d28403fb0153b1d
+
+ABSTRACT: This paper describes the achievements of an innovative eight-year research program first introduced in Mizoguchi and Bourdeau (2000), which was aimed at building a theory-aware authoring system by using ontological engineering. To date, we have proposed OMNIBUS, an ontology that comprehensively covers different learning/instructional theories and paradigms, and SMARTIES, a theory-aware and standards-compliant authoring system to create learning/instructional scenarios based on OMNIBUS. This approach was intended to bridge the gap between theory and practice in scientific and technological development, including learning/instruction support. The goals of this study included the following: that computers would (a) understand a variety of learning/instructional theories based on their organization, (b) utilize such understanding to help authors build learning/instructional scenarios, and (c) make such theoretically sound scenarios interoperable within the framework of technology standards. This paper suggests an ontological engineering solution to achieve these three goals and describes the implementation and feasibility demonstrations of the basic functions of SMARTIES, a solution that supports the design of learning/instructional scenarios based on multiple theories. Although the evaluation is far from complete in terms of practical use, we believe that the results of this study speak to high-level technical challenges of ITS authoring systems and the other areas of AIED, and therefore constitute a substantial contribution. © 2009 - IOS Press and the authors. All rights reserved.
+AUTHOR KEYWORDS: Instructional design;  Instructional theories;  Learning theories;  Ontology;  Standard technologies
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Anderson, J., Baltes, J.
+55605772313;6603911725;
+Using mixed reality to facilitate education in robotics and AI
+(2009) Proceedings of the 22nd International Florida Artificial Intelligence Research Society Conference, FLAIRS-22, pp. 148-153. Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-70350463818&partnerID=40&md5=5783ab5f37b00c682d3dc9de90e3792a
+
+ABSTRACT: Using robots as part of any curriculum requires careful management of the significant complexity that physical embodiment introduces. Students need to be made aware of this complexity without being overwhelmed by it, and navigating students through this complexity is the biggest challenge faced by an instructor. Achieving this requires a framework that allows complexity to be introduced in stages, as students' abilities improve. Such a framework should also be flexible enough to provide a range of application environments that can grow with student sophistication, and be able to quickly change between applications. It should be portable and maintainable, and require a minimum of overhead to manage in a classroom. Finally, the framework should provide repeatability and control for evaluating the students' work, as well as for performing research. In this paper, we discuss the advantages of a mixed reality approach to applying robotics to education in order to accomplish these challenges. We introduce a framework for managing mixed reality in the classroom, and discuss our experiences with using this framework for teaching robotics and AI. Copyright © 2009. Copyright © 2009, Assocation for the Advancement of ArtdicaI Intelligence (www.aaai.org). All rights reserved.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Hatzilygeroudis, I., Prentzas, J.
+6603517779;55993265400;
+A survey on recent patents regarding intelligent educational systems
+(2009) Recent Patents on Computer Science, 2 (3), pp. 214-222. Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-78651528986&doi=10.2174%2f1874479610902030214&partnerID=40&md5=035cb3d47b2b2125776ad9745b5cf2a8
+
+DOI: 10.2174/1874479610902030214
+ABSTRACT: Computer-based educational systems are becoming increasingly important in all levels and types of education. Intelligent Educational Systems (IESs) are computer-based educational systems encompassing Artificial Intelligence schemes to increase the effectiveness of the learning process. In this paper, we survey patents regarding IESs. As IESs we consider either Intelligent Tutoring Systems (ITSs) or Adaptive Educational Hypermedia Systems (AEHSs) incorporating intelligent techniques. We first present indicative functions implemented in the three basic components of an IES: the domain knowledge, the user (or student) modeling unit and the pedagogical module. Afterwards, we focus on representative patents concerning IESs and present the corresponding work. At the end, we outline current and future developments regarding IESs. © 2009 Bentham Science Publishers Ltd.
+AUTHOR KEYWORDS: Adaptive educational hypermedia systems;  Artificial intelligence in E-learning;  Artificial intelligence in education;  Intelligent computer-based training systems;  Intelligent E-learning systems;  Intelligent educational systems;  Intelligent tutoring systems
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Moridis, C.N., Economides, A.A.
+24470399600;7004508496;
+Prediction of student's mood during an online test using formula-based and neural network-based method
+(2009) Computers and Education, 53 (3), pp. 644-652. Cited 42 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-67650236347&doi=10.1016%2fj.compedu.2009.04.002&partnerID=40&md5=6c7c388ef98519a4579009a6fffa1f29
+
+DOI: 10.1016/j.compedu.2009.04.002
+ABSTRACT: Building computerized mechanisms that will accurately, immediately and continually recognize a learner's affective state and activate an appropriate response based on integrated pedagogical models is becoming one of the main aims of artificial intelligence in education. The goal of this paper is to demonstrate how the various kinds of evidence could be combined so as to optimize inferences about affective states during an online self-assessment test. A formula-based method has been developed for the prediction of students' mood, and it was tested using data emanated from experiments made with 153 high school students from three different regions of a European country. The same set of data is analyzed developing a neural network method. Furthermore, the formula-based method is used as an input parameter selection module for the neural network method. The results vindicate to a great degree the formula-based method's assumptions about student's mood and indicate that neural networks and conventional algorithmic methods should not be in competition but complement each other for the development of affect recognition systems. Moreover, it becomes apparent that neural networks can provide an alternative for and improvements over tutoring systems' affect recognition methods. © 2009 Elsevier Ltd. All rights reserved.
+AUTHOR KEYWORDS: Architectures for educational technology system;  Intelligent tutoring systems;  Interactive learning environments;  Pedagogical issues
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Zapata-Rivera, D., Vanwinkle, W., Doyle, B., Buteux, A., Bauer, M.
+36440635800;23483226200;57191768575;57191771603;7401779484;
+Combining learning and assessment in assessment-based gaming environments: A case study from a New York City school
+(2009) Interactive Technology and Smart Education, 6 (3), pp. 173-188. Cited 6 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84993035249&doi=10.1108%2f17415650911005384&partnerID=40&md5=1c9534600a6e564bd9d1b21d09bb04b8
+
+DOI: 10.1108/17415650911005384
+ABSTRACT: Purpose The purpose of this paper is to propose and demonstrate an evidence-based scenario design framework for assessment-based computer games. Design/methodology/approach The evidence-based scenario design framework is presented and demonstrated by using BELLA, a new assessment-based gaming environment aimed at supporting student learning of vocabulary and math. BELLA integrates assessment and learning into an interactive gaming system that includes written conversations, math activities, oral and written feedback in both English and Spanish, and a visible psychometric model that is used to adaptively select activities as well as feedback levels. This paper also reports on a usability study carried out in a public middle school in New York City. Findings The evidence-based, scenario design framework proves to be instrumental in helping combine game and assessment requirements. BELLA demonstrates how advances in artificial intelligence in education, cognitive science, educational measurement, and video games can be harnessed and integrated into valid instructional tools for the classroom. Research limitations/implications This paper provides initial evidence of the potential of these kinds of assessment-based gaming tools to enhance teaching and learning. Future work involves exploring student learning effects in randomized controlled studies and comparing the internal assessment models to more traditional assessment instruments. Originality/value BELLA is the first step toward achieving engaging, assessment-based, gaming environments for a variety of Science, Technology, Engineering and Math (STEM)-related areas with explicit support for English language learners. © 2009, Emerald Group Publishing Limited. All rights reserved.
+AUTHOR KEYWORDS: Assessment;  Computer software;  English language;  Mathematics;  United States of America;  Video games
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Sakdavong, J.-C., Adreit, F., Huet, N.
+6507767720;6504367429;6602075865;
+Help design for the metacognitive guidance of the learner: Proposition of computer-based system
+(2009) CSEDU 2009 - Proceedings of the 1st International Conference on Computer Supported Education, 1, pp. 210-216. Cited 3 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-67650556632&partnerID=40&md5=4fc3580c16e694ed01820b66f7efea64
+
+ABSTRACT: This paper presents the framework and the software system we have built in order to provide metacognitive guidance help in Computer Supported Education. The goal is to assist self-regulation of the learner thanks to a dynamic help system which takes into account in real-time the learner's behavior and his profile. The software system is a multiagent system which captures the learner's behavior, analyse it and define the help. Used currently in the step of conception, the software system will become the learning system by successive learning and enrichment. We present its principles and its operational aspects. The application field of this work is the French certificate "C2i".
+AUTHOR KEYWORDS: Learning, Distance education, Computer supported education, ICT, AIED, Modelling, Help, Guidance, Metacognition, Metacognitive guidance, Multiagent system
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Friedman, D.B., Laditka, J.N., Hunter, R., Ivey, S.L., Wu, B., Laditka, S.B., Tseng, W., Corwin, S.J., Liu, R., Mathews, A.E.
+8078961100;6603771324;7401630475;6701343293;35957360800;7003269428;12784387500;7003982802;56873513900;57204265041;
+Getting the message out about cognitive health: A cross-cultural comparison of older adults' media awareness and communication needs on how to maintain a healthy brain
+(2009) Gerontologist, 49 (SUPPL. 1), pp. S50-S60. Cited 55 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-68149103198&doi=10.1093%2fgeront%2fgnp080&partnerID=40&md5=4ad6f641f9a6cada5dd58a15b0c46b18
+
+DOI: 10.1093/geront/gnp080
+ABSTRACT: Purpose:Evidence suggests that physical activity and healthy diets may help to maintain cognitive function, reducing risks of developing Alzheimer's disease and vascular dementia. Using a cross-cultural focus, we describe older adults' awareness about cognitive health, and their ideas about how to inform and motivate others to engage in activities that may maintain brain health.Design and Methods:Nineteen focus groups were conducted in 3 states (California, North Carolina, South Carolina) with 177 adults aged 50 years and older. Six groups were with African Americans (AAs), 4 with Chinese, 3 with Vietnamese, 4 with non-Hispanic Whites, and 2 with American Indians (AIs). A qualitative thematic analysis was conducted.Results:Many participants did not recall reading or hearing about brain health in the media. Participants recommended a multimedia approach to inform others about brain health. Both interpersonal and social/group motivational strategies were suggested. Word of mouth and testimonials were recommended most often by Chinese and Vietnamese. AAs and AIs suggested brain health education at church; AAs, Chinese, and Vietnamese said brain health slogans should be spiritual. Participants' perceived barriers to seeking brain health information included watching too much TV and confusing media information.Implications:Findings on communication strategies for reaching racial/ethnic groups with brain health information will help guide message and intervention development for diverse older adults.
+AUTHOR KEYWORDS: Cognitive health;  Culture;  Ethnicity;  Health communication;  Mass media
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Bronze
+SOURCE: Scopus
+
+Kim, P., Sorcar, P., Um, S., Chung, H., Lee, Y.S.
+37022658800;26653845900;57207468027;26653329200;57207016373;
+Effects of episodic variations in web-based avian influenza education: Influence of fear and humor on perception, comprehension, retention and behavior
+(2009) Health Education Research, 24 (3), pp. 369-380. Cited 19 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-67449136388&doi=10.1093%2fher%2fcyn031&partnerID=40&md5=9e752156fa56c8f606548d46c5720738
+
+DOI: 10.1093/her/cyn031
+ABSTRACT: In order to provide empirical evidence on the role of a web-based avian influenza (AI) education program for mass communication and also ultimately help young children learn and develop healthy behaviors against AI and all types of influenza, an education program with two episodic variations (i.e. fear and humor) has been developed and examined with 183 fifth-grade elementary students. A quasi-experimental design was employed to find potential differential effects on the context-specific risk perception, AI knowledge acquisition, retention and behavior. The study results reveal that the fear appealed AI web-based education program was much more effective than the humor-based program in improving risk perception and educating the students about healthy behaviors (i.e. against influenza infection). However, a significant behavior change or improvement of health practices was not apparent on the post-tests (i.e. 1 month after the treatment) in either episode of the program.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Bronze
+SOURCE: Scopus
+
+Bittencourt, I.I., Costa, E., Silva, M., Soares, E.
+15924917400;35618052700;55467636600;35207103400;
+A computational model for developing semantic web-based educational systems
+(2009) Knowledge-Based Systems, 22 (4), pp. 302-315. Cited 74 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-67349140898&doi=10.1016%2fj.knosys.2009.02.012&partnerID=40&md5=ec7d145ae921f162583b19c37ff31efe
+
+DOI: 10.1016/j.knosys.2009.02.012
+ABSTRACT: Recently, some initiatives to start the so-called semantic web-based educational systems (SWBES) have emerged in the field of artificial intelligence in education (AIED). The main idea is to incorporate semantic web resources to the design of AIED systems aiming to update their architectures to provide more adaptability, robustness and richer learning environments. However, the construction of such systems is highly complex and faces several challenges in terms of software engineering and artificial intelligence aspects. This paper presents a computational model for developing SWBES focusing on the problem of how to make the development easier and more useful for both developers and authors. In order to illustrate the features of the proposed model, a case study is presented. Furthermore, a discussion about the results regarding the computational model construction is available. © 2009 Elsevier B.V. All rights reserved.
+AUTHOR KEYWORDS: Agent-based software engineering;  Artificial intelligence in education;  Semantic web based educational systems
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Jiménez Builes, J.A., Ovalle Carranza, D.A., Branch Bedoya, J.W.
+56394699100;26430052300;55366608100;
+Conceptualization and analysis of a pedagogical multi-agent system using MAS-commonKADS methodology [Conceptualización y análisis de un sistema multi-agente pedagógico utilizando la metodología MAS-commonKADS]
+(2009) DYNA (Colombia), 76 (158), pp. 229-239. Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-75349099736&partnerID=40&md5=f2c7338011e95cd043b092e27f8ab0ca
+
+ABSTRACT: In this paper is presented the conceptualization and analysis of a pedagogical multi-agent system (MAS) using the methodology MAS-CommonKADS; which is one of the most renowned methodologies for MAS modeling. The purpose of the conceptualization phase is understanding the problem, identifying the active and passive actors, and also making the requirements that allow us formulating some objectives to generate the solution. In the analysis phase are defined the models of agents, tasks, coordination, communication, organization and experience (knowledge). Both phases were validated through the construction of the pedagogical multi-agent environment ALLEGRO.
+AUTHOR KEYWORDS: Artificial intelligence in education;  Distributed artificial intelligence;  MAScommonKADS methodology;  Multi-agent system
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Forbus, K.D.
+7003585370;
+Open-domain sketch understanding for AI and Education
+(2009) Frontiers in Artificial Intelligence and Applications, 200 (1), p. 4.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-73149106400&doi=10.3233%2f978-1-60750-028-5-4&partnerID=40&md5=482599924121762908eebe948203beb5
+
+DOI: 10.3233/978-1-60750-028-5-4
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Blanchard, E.G., Volfson, B., Hong, Y.-J., Lajoie, S.P.
+24340588100;57205014649;42361095800;6602435220;
+Affective artificial intelligence in education: From detection to adaptation
+(2009) Frontiers in Artificial Intelligence and Applications, 200 (1), pp. 81-88. Cited 24 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-73149091456&doi=10.3233%2f978-1-60750-028-5-81&partnerID=40&md5=aa43e69d6de97d7fa4c7ada4f23da350
+
+DOI: 10.3233/978-1-60750-028-5-81
+ABSTRACT: This paper reviews and integrates research that would be necessary to develop an AIED system able to detect and then appropriately react to an affective state of a learner. It addresses the nature of affect, methods to automatically detect affect, as well as the interplay between affect and learning-related cognition, and affective strategies that promote quality learning. © 2009 The authors and IOS Press. All rights reserved.
+AUTHOR KEYWORDS: Affect and learning;  Affect detection;  Affect-related strategies
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Chen, W., Persen, R.
+22333571600;25652114000;
+A recommender system for collaborative knowledge
+(2009) Frontiers in Artificial Intelligence and Applications, 200 (1), pp. 309-316. Cited 4 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-73149089477&doi=10.3233%2f978-1-60750-028-5-309&partnerID=40&md5=ac93c6705ef09728c2449120ceae564f
+
+DOI: 10.3233/978-1-60750-028-5-309
+ABSTRACT: To provide recommendations of learning objects and adaptive learning support has been one of the main areas within the AIED community. Learner-generated material could potentially be valuable as learning resources. How to identify relevant learner-generated resources and provide just-in-time recommendations to the learner is a challenging task. This paper presents a recommender system that can recommend collaborative knowledge constructed and accumulated by previous learners. © 2009 The authors and IOS Press. All rights reserved.
+AUTHOR KEYWORDS: Collaborative knowledge;  Domain model;  Learning objects;  Recommender
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Avramides, K., Du Boulay, B.
+35213071000;6602083684;
+Motivational diagnosis in ITSs: Collaborative, reflective self-report
+(2009) Frontiers in Artificial Intelligence and Applications, 200 (1), pp. 587-589. Cited 8 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-73149084669&doi=10.3233%2f978-1-60750-028-5-587&partnerID=40&md5=114e2075500c2ebee974edfac15eeb5b
+
+DOI: 10.3233/978-1-60750-028-5-587
+ABSTRACT: A central challenge in the design of motivationally intelligent tutoring systems lies in defining and diagnosing a learner's motivational state: in particular, in distinguishing between the learner's motivational and affective states. We discuss existing AIED approaches and outline an alternative approach that incorporates reflective peer collaboration. The paper raises questions about the basis for the design of motivationally intelligent tutoring systems. © 2009 The authors and IOS Press. All rights reserved.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Anand, S.S., Bunescu, R., Carvcdho, V., Chomicki, J., Conitzer, V., Cox, M.T., Dignum, V., Dodds, Z., Dredze, M., Furcy, D., Gabrilovich, E., Göker, M.H., Guesgen, H., Hirsh, H., Jannach, D., Junker, U., Ketter, W., Kobsa, A., Koenig, S., Lau, T., Lewis, L., Matson, E., Metzler, T., Mihalcea, R., Mobasher, B., Pineau, J., Poupart, P., Raja, A., Ruml, W., Sadeh, N., Shani, G., Shapiro, D., Smith, T., Taylor, M.E., Wagstaff, K., Walsh, W., Zhou, R.
+12142953100;8285251100;57215638130;7003421351;6603436056;57209861105;6603389724;6602320783;14041686400;6507711646;7801396815;8972481700;6701910278;7102112548;6602129680;7005474761;6506124372;6701707333;7103375132;7102222331;7402152621;7006694440;23493063000;8619220500;7006824941;13404973100;6602232581;7005486970;6603113557;6603834332;57215992399;7402062996;9746727600;57215640279;10240894700;36451570200;7401567052;
+AAAI 2008 workshop reports
+(2009) AI Magazine, 30 (1), pp. 108-118.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-64749090408&doi=10.1609%2faimag.v30i1.2196&partnerID=40&md5=efbbde0ae4fcf970c827c75789e0c759
+
+DOI: 10.1609/aimag.v30i1.2196
+ABSTRACT: AAAI was pleased to present the AAAI-08 Workshop Program, held Sunday and Monday, July 13-14, in Chicago, Illinois, USA. The program included the following 15 workshops: Advancements in POMDP Solvers; AI Education Workshop Colloquium; Coordination, Organizations, Institutions, and Norms in Agent Systems, Enhanced Messaging; Human Implications of Human-Robot Interaction; Intelligent Techniques for Web Personalization and Recommender Systems; Metareasoning: Thinking about Thinking; Multidisciplinary Workshop on Advances in Preference Handling; Search in Artificial Intelligence and Robotics; Spatial and Temporal Reasoning; Trading Agent Design and Analysis; Transfer Learning for Complex Tasks; What Went Wrong and Why: Lessons from AI Research and Applications; and Wikipedia and Artificial Intelligence: An Evolving Synergy. Copyright © 2009, Association for the Advancement of Artificial Intelligence. All rights reserved.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Ndongala, M.L., Peretz, Y., Boulet, S., Doroudchi, M., Yassine-Diab, B., Boulassel, M.-R., Rouleau, D., Tremblay, C., LeBlanc, R., Routy, J.-P., Sékaly, R.-P., Bernard, N.F.
+6507285430;8288516200;16024165700;55912898400;7801355511;6603438866;7003721464;7005236335;35509025400;7003631689;7103324485;7102385607;
+HIV Gag p24 specific responses secreting IFN-γ and/or IL-2 in treatment-naïve individuals in acute infection early disease (AIED) are associated with low viral load
+(2009) Clinical Immunology, 131 (2), pp. 277-287. Cited 22 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-63749103545&doi=10.1016%2fj.clim.2008.11.006&partnerID=40&md5=bd1a51108341fb45e6b8908715ed2919
+
+DOI: 10.1016/j.clim.2008.11.006
+ABSTRACT: HIV-specific immune responses in acute infection early disease (AIED) may be effective at controlling viral replication and in establishing viral load (VL) set point. However, evidence correlating the function and specificity of these responses with the VL set point is lacking. To address this issue, we screened cells from 59 treatment-naïve HIV infected individuals (33 in AIED and 26 progressors) for responses to the entire HIV proteome using a dual color ELISPOT assay detecting 3 functional lymphocyte populations: single IFN-γ, dual IFN-γ/IL-2 and single IL-2 secreting cells. Responses characterized by dual secreting cells contributed more to the HIV specific response in AIED versus chronic infection. Of responses directed to individual HIV gene products the magnitude and breadth of only Gag p24-specific responses for the 3 functional subsets were associated with lower concurrent or set point VL. Therefore the early appearance of broader and more intense Gag-p24-specific responses may be a determinant of subsequent VL. © 2008 Elsevier Inc. All rights reserved.
+AUTHOR KEYWORDS: AIED;  Dual color ELISPOT;  HIV Gag p24 responses;  HIV viremia
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Moraes, M.C., Silveira, M.
+15769295400;8552947600;
+Design and evaluation of animated pedagogical agents
+(2008) Agent-Based Tutoring Systems by Cognitive and Affective Modeling, pp. 43-72.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84899290480&doi=10.4018%2f978-1-59904-768-3.ch003&partnerID=40&md5=c4e1af71c73002c5a8f91c8ef19ca8a9
+
+DOI: 10.4018/978-1-59904-768-3.ch003
+ABSTRACT: The area of animated pedagogical agents is related to the development of applications that aim to improve the human-computer interaction process using software agents represented by characters or human figures. Several projects are being developed in this area, and one of their concerns is the "illusion of life" effect. In order to reach the believability needed for promoting the "illusion of life," it is important that researches be concerned with two main aspects during projects of animated pedagogical agents: The design aspect and the evaluation aspect. In this chapter, we will discuss basic guidelines for animated pedagogical agents design, and an evaluation method based on concepts provided by computer in education (CE), artificial intelligence (AI), and human-computer interaction (HCI), in order to help CE and AI researchers (to project and to develop pedagogical agents that can enhance human-agent usability) and HCI researchers and teachers (to evaluate these agents). © 2008, IGI Global.
+DOCUMENT TYPE: Book Chapter
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Karpov, I.V., Sheblak, J., Miikkulainen, R.
+15055842400;55838430400;7003434895;
+Opennero: A game platform for ai research and education
+(2008) Proceedings of the 4th Artificial Intelligence and Interactive Digital Entertainment Conference, AIIDE 2008, pp. 220-221. Cited 5 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84883111828&partnerID=40&md5=3d8b52251f71f2a852852a502575a395
+
+ABSTRACT: OpenNERO is an open source game platform designed for game AI research. The software package combines features commonly available in modern game engines (such as 3D graphics, physics simulation, 3D audio rendering, networked play, and a powerful scripting interface) with an easy to use API and tools for defining machine learning tasks, environments, and agents. Flexibility and ease of use of the system are demonstrated by following the process of creating a machine learning game from scratch. The scalability of the platform is tested through the implementation of the existing NERO machine learning game using the new tools. Copyright © 2008, Association for the Advancement of Artificial Intelligence.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Conejo, R., Barros, B., Guzmán, E., Gálvez, J.
+6602861828;6603564658;8912783400;57196617781;
+Formative evaluation of the SIETTE collaborative testing environment
+(2008) Proceedings - ICCE 2008: 16th International Conference on Computers in Education, pp. 297-301. Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84856962082&partnerID=40&md5=faad0f5e186064c70bd672391a11a2a0
+
+ABSTRACT: This paper describes the development of a computesrized collaborative testing environment upon the SIETTE system. Using this environment, students can take a test in groups. They can exchange messages, view the answers of their peers and discuss about the correct answer. We have made a formative evaluation of the system from March 2005 to January 2008. The incidences happened during the experiments and the users' feedback, have been used to improve the system. During these years, three different prototypes have been released and tested with undergraduate students from two Spanish Universities.
+AUTHOR KEYWORDS: Assessment;  Collaborative AIED systems;  Evaluation of AIED systems
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Bittencourt, I., de Barros Costa, E., Fonseca dos Santos Neto, B., Guilherme Maia de Menezes, J., Santana Melo, J.S., Ferneda, E., Bernardi da Silva, A.P., Brasil, L.M.
+15924917400;23033597200;56129294200;56129250700;56128620800;57219126974;57202858791;6602738375;
+Constructing intelligent tutoring systems based on a multiagent architecture
+(2008) Agent-Based Tutoring Systems by Cognitive and Affective Modeling, pp. 228-259. Cited 3 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-77951456631&doi=10.4018%2f978-1-59904-768-3.ch011&partnerID=40&md5=39c9f40f599520ec1c5ca1fb7a3b72ad
+
+DOI: 10.4018/978-1-59904-768-3.ch011
+ABSTRACT: Tools to make the development of intelligent tutoring systems (ITS) easier and more efficient are a relevant topic within the artificial intelligence in education community. This chapter presents a set of tools for constructing multiagent-based ITS, and describes a methodology for guiding the development of ITS. The main goal is to make multiagent-based ITS development more efficient and useful for both developers and authors. This has been done to support development of tutors based on Mathema's environment as a reference model. Basically, in order to create a particular ITS, authors have to consider three main steps concerned with domain, student, and pedagogical models. A case study is presented to demonstrate the effectiveness of the proposed approach. Results of this case study show that this proposal makes the process of building the considered ITS easier and more efficient. © 2008, IGI Global.
+DOCUMENT TYPE: Book Chapter
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Anthony, A., Desjardins, M., Martin, S.
+23007519900;10239052700;57198703099;
+A multi-agent team formation framework for classroom instruction
+(2008) AAAI Workshop - Technical Report, WS-08-02, pp. 1-6.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-66249115989&partnerID=40&md5=11b0c21493c6673269b155f45c561ea7
+
+ABSTRACT: A challenge in AI education is the creation of interesting term projects. An ideal term project is fun, engaging, and allows students to focus on the interesting parts of a problem, rather than spending several weeks designing infrastructure or coming up to speed on a complex simulation framework. In this paper, we describe our efforts in designing a multi-agent team formation environment using the Repast toolkit, which we used successfully for a course project in an upper-level class on intelligent agents. The infrastructure that we developed resulted in a project that was both enjoyable and pedagogically effective, and that could be completed in only a few weeks. We begin with a description of the initial design and deployment of the project, followed by a discussion of problems we encountered, and the changes we have made for future classroom deployments. We conclude with a description of some open issues with our project and how we will address them. © 2008, Association for the Advancement of Artificial Intelligence.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kelly, J., Binney, J., Pereira, A., Khan, O., Sukhatme, G.S.
+57210998988;26638682100;23095199900;26648658900;7003730870;
+Just add wheels: Leveraging commodity laptop hardware for robotics and AI education
+(2008) AAAI Workshop - Technical Report, WS-08-02, pp. 50-55. Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-66149175584&partnerID=40&md5=3fc13732e7726c16b123f374bb0519ea
+
+ABSTRACT: Along with steady gains in processing power, commodity laptops are increasingly becoming sensor-rich devices. This trend, driven by consumer demand and enabled by improvements in solid-state sensor technology, offers an ideal opportunity to integrate robotics into K-12 and undergraduate education. By adding wheels, motors and a motor control board, a modern laptop can be transformed into a capable robot platform, for relatively little additional cost. We propose designing software and curricula around such platforms, leveraging hardware that many students already have in hand. In this paper, we motivate our laptop-centric approach, and demonstrate a proof-of-concept laptop robot based on an Apple MacBook laptop and an iRobot Create mobile base. The MacBook is equipped with a built-in camera and a three-axis accelerometer unit - we use the camera for monocular simultaneous localization and mapping (SLAM), and the accelerometer for 360 degree collision detection. The paper closes with some suggestions for ways in which to foster more work in this direction. © 2008, Association for the Advancement of Artificial Intelligence.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Obradovič, D.
+25653263500;
+COSAIR: A platform for AI education and research in computer strategy games
+(2008) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 5243 LNAI, pp. 397-398. Cited 3 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-56549103992&doi=10.1007%2f978-3-540-85845-4_52&partnerID=40&md5=d2acbe8afd9246e4de64e85267614e9c
+
+DOI: 10.1007/978-3-540-85845-4_52
+ABSTRACT: Computer strategy games are very challenging for AI agents and highly interesting for students. We present a game platform specifically developed to support practical AI education of students. Featuring all the complexity criteria in a simplified form, it easily supports the evaluation of bots, the reuse of existing AI modules, the inclusion of learning techniques and the sharing of results and code. The platform has been used by a number of students and proved to be in a fairly mature state. © 2008 Springer-Verlag Berlin Heidelberg.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Jackisch, C., Hadji, P., Bolten, W.W., Zaun, S., Maass, N.
+26643489300;7003336651;55369708300;13104729500;7004017326;
+Aromatase inhibitor induced arthralgia: Clinical experience and treatment recommendations [Aromatasehemmer-assoziierte arthralgien: Klinische erfahrungen und therapieempfehlungen]
+(2008) Geburtshilfe und Frauenheilkunde, 68 (10), pp. 977-985. Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-56149123799&doi=10.1055%2fs-2008-1038945&partnerID=40&md5=cdc30950bc7d7d8c5045e2feea94deee
+
+DOI: 10.1055/s-2008-1038945
+ABSTRACT: Objective: It is well documented that aromatase inhibitors (AI) are superior to tamoxifen as an adjuvant endocrine therapy in postmenopausal women with hormone receptor-positive breast cancer. However, compared with tamoxifen, an elevated incidence of arthralgia has been observed during AI treatment. Concerns have been raised that AI-induced arthralgia may dissuade patients from completing their full AI treatment course. Patient education on the possibility of experiencing arthralgia and the effective management of symptoms, if they appear, is important in helping patients adhere to AI treatment schedules and, consequently, in improving breast cancer outcomes. Methods: In this paper, we discuss the potential mechanisms behind AI-induced arthralgia, review the frequency with which arthralgia occurs, and propose an algorithm specifically for the treatment of AI-induced arthralgia. As with joint pain in non-breast cancer patients, a sequential approach to disease management is recommended, involving modifications of the patient's lifestyle in addition to taking a stratified approach to pharmacological intervention with analgesia and anti-inflammatory medication. Conclusion: Knowing that joint symptoms can be managed in most patients may encourage patient-physician communication and treatment compliance. A specific treatment algorithm is proposed that may support doctors and patients when dealing with AI-induced arthralgia. © Georg Thieme Verlag KG Stuttgart.
+AUTHOR KEYWORDS: Aromatase inhibitors;  Arthralgia;  Coxib;  Joint pain;  tNSAID
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Matsuo, T., Fujimoto, T.
+7403703238;15623143700;
+Electronic learning support system based on analogy reuse
+(2008) 2008 IEEE International Conference on Information Reuse and Integration, IEEE IRI-2008, art. no. 4583054, pp. 341-344.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-51949092853&doi=10.1109%2fIRI.2008.4583054&partnerID=40&md5=10515921d015527c9a8907f9b4b68de2
+
+DOI: 10.1109/IRI.2008.4583054
+ABSTRACT: In design on a new teaching system, the challenging issues are including how the system intelligently supports learners. This paper describes a methodology and a system design on the intelligent instruction support in software engineering education by using the conception of human information reuse. To enhance learners' understands, we design a novel instructional model based on the analogical thinking in AI-aided education. The analogical thinking-based instruction consists of three following concrete teaching methods, (1) Analogy dropping method, (2) Self role-play method, and (3) Anthropomorphic thinking method. Our proposed instruction system teaches learning issues based on them. Questionnaires for learners after instructions give the result of effective education in an actual trial. The contribution of this paper is to provide new education theory, the way of educational practice, and implementation of the system. ©2008 IEEE.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Qi, L., Cui, X.
+8608247300;14319641700;
+Near field coupling to shielded cable due to switching operation in substation
+(2008) Frontiers of Electrical and Electronic Engineering in China, 3 (3), pp. 347-352. Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-46649110321&doi=10.1007%2fs11460-008-0056-9&partnerID=40&md5=7465fcedb09bbb1b339eba4c1c8aaadc
+
+DOI: 10.1007/s11460-008-0056-9
+ABSTRACT: It is vital to study the electromagnetic coupling to shielded cable for improving electromagnetic antiinterference ability of secondary equipment in a substation. As a hybrid of method of moment (MoM) and transmission line method, a frequency domain model is put forward to study the near field coupling to shielded cable due to the switching operation in substation. Compared with the results of EMTP, the proposed method has been proven correct. Furthermore, this method overcomes the disadvantage of EMTP, which is only applicable for transient analysis of parallel conductors. As an example, the presented method is applied to evaluating the electromagnetic interference (EMI) to the shielded cable, whose shield is grounded at both ends, due to the switching operation in 500 kV air insulation substation (AIS). © 2008 Higher Education Press and Springer-Verlag GmbH.
+AUTHOR KEYWORDS: Electromagnetic coupling;  Shielded cable;  Substation;  Switching operation
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Welham, D.
+23968189000;
+AI in training (1980-2000): Foundation for the future or misplaced optimism?
+(2008) British Journal of Educational Technology, 39 (2), pp. 287-296. Cited 4 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-40249084559&doi=10.1111%2fj.1467-8535.2008.00818.x&partnerID=40&md5=f8ce0f37174a21a34289c456e1caa557
+
+DOI: 10.1111/j.1467-8535.2008.00818.x
+ABSTRACT: Since the beginning of the use of technology to support training and learning there has always been the belief that such new technologies would be able to add value either by reducing costs or increasing effectiveness. The 1980s and early 1990s were a period of enormous optimism as to the promise that such technology could bring. The governments of Europe and the US were generous in their funding of research in this area. In Europe research and development programmes such as ESPRIT, DELTA, RACE, ERASMUS and COMETT, to name only a few, funded a wealth of initiatives aimed at advancing the use of technology. At the margins of the early initiatives was the belief that AI must have a part to play in these developments. This paper reviews the early initiatives and suggests reasons why the potential for the use of AI in education and training has never been truly fulfilled. © 2008 Biritish Educational Communications and Technology Agency. Published by Blackwell Publishing Ltd.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Zouaq, A., Nkambou, R., Frasson, C.
+14049497000;22433265700;7003506234;
+Bridging the gap between ITS and elearning: Towards learning knowledge objects
+(2008) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 5091 LNCS, pp. 448-458. Cited 7 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-70349850673&doi=10.1007%2f978-3-540-69132-7_48&partnerID=40&md5=a259b5744d6cfe0fe962b80ea1ded677
+
+DOI: 10.1007/978-3-540-69132-7_48
+ABSTRACT: This paper presents an ontology-based approach for the dynamic generation of learning knowledge objects (LKO). These objects have the particularity of implementing AIED techniques and they exhibit characteristics hitherto reserved for intelligent tutoring systems (ITS): they are knowledge-based, adapted to a learner model and they are composed dynamically according to a learning need and a particular instructional theory. Additionally, the paper tackles the issue of using eLearning resources by ITS and shows how this could be realized. Finally, the paper also demonstrates how LKOs are deployed and evaluates briefly the results of the proposed approach. © 2008 Springer-Verlag Berlin Heidelberg.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Zouaq, A., Nkambou, R., Member, IEEE
+14049497000;22433265700;
+Building Domain Ontologies from Text for Educational Purposes
+(2008) IEEE Transactions on Learning Technologies, 1 (1), pp. 49-62. Cited 67 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-66149174074&doi=10.1109%2fTLT.2008.12&partnerID=40&md5=1d23c012eb2a43c36230587752c542fe
+
+DOI: 10.1109/TLT.2008.12
+ABSTRACT: This paper presents a semiautomatic framework that aims to produce domain concept maps from text and then to derive domain ontologies from these concept maps. This methodology particularly targets the e-learning and Artificial Intelligence in Education (AIED) communities as they need such structures to sustain the production of e-learning resources tailored to learners' needs. This paper details the steps to transform textual resources, particularly textual learning objects (LOs), into domain concept maps, and it explains how this abstract structure is transformed into a formal domain ontology. A methodology is also presented to evaluate the results of ontology learning. The paper shows how such structures (domain concept maps and formal ontologies) make it possible to bridge the gap between e-learning and Intelligent Tutoring Systems by providing a common domain model. © 2008 IEEE
+AUTHOR KEYWORDS: Applications and expert knowledge-intensive systems (education);  intelligent Web services and Semantic Web knowledge acquisition;  knowledge reuse
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Bronze
+SOURCE: Scopus
+
+Tribelhorn, B., Dodds, Z.
+10241681600;6602320783;
+Envisioning the roomba as AI resource: A classroom and laboratory evaluation
+(2007) AAAI Spring Symposium - Technical Report, SS-07-09, pp. 155-160. Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-37349121397&partnerID=40&md5=10b51b8dec313a28f69f8a166c4bb3fc
+
+ABSTRACT: This paper investigates the suitability of iRobots Roomba as a low-cost robotic platform for use in AI research and education. Examining the sensing and actuation capabilities of the vacuum base led us to develop sensor and actuation models more accurate than those provided by the raw API. We validate these models with implementations of Monte Carlo Localization and FastSLAM, algorithms that suggest the Roomba's viability for AI research. Classroom trials incorporated the Roomba into CS 1 and CS 2 courses in the Spring of 2006, and student feedback has been similarly promising for educational uses. While the platform has both benefits and drawbacks relative to similarly-priced alternatives, we conclude that the Roomba will interest many educators, especially those focusing on the computational facets of robotics or applications involving large, homogeneous groups of physical agents. Copyright © 2007, Association for the Advancement of Artificial Intelligence (www.aaai.org). All rights reserved.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Pfaffmann, J.O., Collins, W.J.
+6506672295;57201000101;
+Teaching Artificial Intelligence across the computer science curriculum using Sudoku as a problem domain
+(2007) Proceedings of the Twentieth International Florida Artificial Intelligence Research Society Conference, FLAIRS 2007, pp. 327-332.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-37349029702&partnerID=40&md5=a81a52b5f33e273d9a649c324b8ee9be
+
+ABSTRACT: Artificial Intelligence (AI) is a field of both great breadth and depth. Thus, determining undergraduate material for an AI course can be problematic. Fortunately, AI is continually searching for new perspectives on problem solving that eventually propagate into the Computer Science mainstream. An approach is proposed for undergraduate AI education that utilizes these aspects of exploration and propagation. The approach introduces important individual techniques early in the computer science curriculum to form a foundation for the upper-level AI course focusing on research methods. This approach is explored using two Sudoku projects at different levels in the Computer Science curriculum, with constraint satisfaction used as the individual technique. Sudoku is a logic puzzle that has a great deal of appeal and is easily encoded as a constraint satisfaction problem domain. In the introductory-level CS 2 course, the Sudoku-based project uses a provided BackTrack class that can be employed to find a path through a maze, place eight queens, or schedule a knight's tour. This illustrates the power of recursion in general and backtracking in particular (a central aspect of constraint satisfaction techniques.) In the upper-level AI course, Sudoku is used as a problem domain for developing a puzzle solver using the full breadth of constraint satisfaction techniques and producing an optimal puzzle generator using a technique of the student's own selection. Students are required to write a research quality publication based on the results of their projects. The goal of the paper is to provide a research experience where not only a solution is derived but the reasoning process is directly explored. Due to the frequency that the AI course is taught, two separate student populations are discussed. The results from the dual population still allow for a viable exploration of this cross-curriculum approach. Finally, the paper illustrates that Sudoku is an excellent problem domain choice for teaching AI approaches in both introductory- and upper-level computer science courses. Copyright © 2007, American Association for Artificial Intelligence (www.aaai.org). All rights reserved.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Avanzato, R.
+55947669300;
+Mini grand challenge contest for robot education
+(2007) AAAI Spring Symposium - Technical Report, SS-07-09, pp. 7-9. Cited 6 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-37349020267&partnerID=40&md5=c8e39b75fbdeac26f9281ebc20928e1a
+
+ABSTRACT: The Mini Grand Challenge outdoor robot design contest was developed at the Penn State Abington campus to promote advances in robot education and technology. Partly inspired by the DARPA Grand Challenge, ground robots must navigate unmarked pathways on a suburban college campus and reach waypoint goals. Robots must also interact and entertain spectators during travel along the designated route. The contest facilitates and encourages the use of low-cost robot platforms in order to make the experience highly accessible to students and educators. A successful robot platform for less than $300 was developed by Penn State Abington for participation in the 2005 and 2006 contest offerings. The outdoor contest and low-cost platforms provide a challenging but accessible educational opportunity for robotics and AI education at the undergraduate and K-12 levels.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Vila, E.M.S., Penín, M.L.
+22982117200;12239276700;
+Introduction to special issue AI techniches applied in education [Monografía: Técnicas de la inteligencia artificial aplicadas a la educación]
+(2007) Inteligencia Artificial, 11 (33), pp. 7-12. Cited 3 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-36049016227&partnerID=40&md5=7a181a22f3b187c2e99100dbedea61e5
+
+ABSTRACT: The increasing utilization of information and communication technologies in teaching/learning processes is a reality both at universities as well as learning centers of all over the world. Nowadays, one of the most demanding technologies are those based on artificial intelligence, like intelligent tutoring systems, adaptive learning management systems and videogames. This special issue offers a set of papers focused on analyzing the state of the art in Spain regarding with the application of artificial intelligence techniques in the educational field. The papers have been selected from the contributions accepted in the workshop ?Artificial Intelligence Techniques applied in Education?, organized by the Intelligent Systems Group of the University of Santiago de Compostela, in the context of the XI Conference of the Spanish Association of Artificial Intelligence. © AEPIA.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Yang, X.Q., Yu, L.S., Ma, X.
+49962490800;7404164485;55223020700;
+[Postaurical injection of compound betamethasone to treat the intractable low-frequency sensorineural hearing loss].
+(2007) Zhonghua er bi yan hou tou jing wai ke za zhi = Chinese journal of otorhinolaryngology head and neck surgery, 42 (11), pp. 814-816. Cited 9 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-80052516607&partnerID=40&md5=d997f05f7167649a6149936079e21952
+
+ABSTRACT: To discuss the treatment of compound betamethasone injection in cases with the intractable low-frequency sensorineural hearing loss (LFSNHL). Compound betamethasone injection 1 ml had been injected postaural only once to 23 cases with the unilateral LFSNHL, then observe the effect and follow-up at least 6 months. At the same time, the same therapy used to 4 cases with the binaural LFSNHL. The control group gave Merislon and Sibelium peroral for 2 weeks to 18 cases with the unilateral LFSNHL. In unilateral LFSNHL group, twelve cases recovered, 7 cases had the hearing improved and 4 cases were ineffective in 23 cases. The efficiency was 82.6%. 2 cases (2 ears) showed hearing falling at low-frequency after 2-3 months. Others didn't recur after 6 months. 1 case showed low-grade skin atrophy at the local injection part. No other side-effects showed. In 4 binaural cases, 2 cases in effect and the others had no effect, and the former recurred after 1-2 months. In control group, 1 week after the end of therapy, 3 cases (3 ears) recovered, 1 case (1 ear) recovered 2 weeks later after the end of therapy, and the 4 cases didn't recur after 2 months. The other 14 cases were ineffective. Compound betamethasone injection postaural treated intractable LFSNHL effectively, but no obvious efficiency to cases with the binaural LFSNHL. May be these cases have some relationship with autoimmune inner ear disease (AIED).
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Warne, D.
+22136549000;
+Policy challenges in American Indian/Alaska Native health professions education
+(2007) Journal of Interprofessional Care, 21 (SUPPL. 2), pp. 11-19. Cited 9 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-34848924945&doi=10.1080%2f13561820701520426&partnerID=40&md5=60242e0d4db84cf26df09983486572b0
+
+DOI: 10.1080/13561820701520426
+ABSTRACT: Disparities exist in the numbers of American Indians and Alaska Natives (AI/ANs) in the health professions as compared with the general United States (US) population. Numerous factors contribute to this disparity, including inequities in education, healthcare and economic development opportunities. The basis for inequality is rooted in the policy arena. Issues in health professions education blend the arenas of health policy and education policy. Although AI/ANs have a birth right to healthcare and to education programs as a result of treaties signed between the US and tribal governments, these programs are severely under funded. To understand the disparities in health professions education for AI/ANs today, it is important to understand the history of US federal Indian policy over the last two centuries. Following a history of removal, assimilation, reorganization and termination, the current phase of federal Indian policy is tribal self-determination. As a result, opportunities exist to reduce disparities in the number of AI/AN health professionals and in health disparities. AI/AN tribes have the opportunity to work in partnership to coordinate health, education, social and economic development policy to increase the numbers of AI/AN health professionals. Tribes can also make it a priority to coordinate political advocacy efforts to improve funding for AI/AN health and education programs.
+AUTHOR KEYWORDS: American Indian/Alaska Native;  Health policy;  Health professions education
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Chen, Z.-H., Liao, C.C.Y., Chan, T.-W.
+55705598400;26645090300;56071786800;
+My-pet-and-her-friends: Identifying educational roles of animal companions in game-based learning environment
+(2007) Proceedings - DIGITEL 2007: First IEEE International Workshop on Digital Game and Intelligent Toy Enhanced Learning, art. no. 4148838, pp. 104-108. Cited 1 time.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-34547689381&doi=10.1109%2fDIGITEL.2007.36&partnerID=40&md5=fcc6f86a6b2a298fdb2a383af136e231
+
+DOI: 10.1109/DIGITEL.2007.36
+ABSTRACT: Virtual characters simulated by computers have been a subject for research and development in both Artificial Intelligence in Education (AIED) and video game design. Between AIED and video games there is an emerging enterprise, that is, virtual characters in video learning game design. This paper proposes a Profile-Driven-Interaction (PDI) framework which borrows the design experience of virtual characters from AIED research to that for video learning games. The PDI framework enables virtual characters to take roles for various educational purposes based on the learner model of that learner and learner models of other learners. These virtual characters are designed in such a way that when they interact with a learner, the learner is actually improving her learning status. Based on this framework, a video learning game, called My-Pet-and-Her-Friends, is developed to address some relevant issues in the learning process, in particular, the issues of engagement and reflection of the learner. © 2007 IEEE.
+AUTHOR KEYWORDS: Digital game-based learning;  Educational role;  NPC;  Virtual character
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Jalkanen, R., Bech-Hansen, N.T., Tobias, R., Sankila, E.-M., Mäntyjärvi, M., Forsius, H., De La Chapelle, A., Alitalo, T.
+8151960500;7004361877;7006120398;7003405932;7004549562;56653837800;35393340400;6701791777;
+A novel CACNA1F gene mutation causes Åland Island eye disease
+(2007) Investigative Ophthalmology and Visual Science, 48 (6), pp. 2498-2502. Cited 40 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-34347251602&doi=10.1167%2fiovs.06-1103&partnerID=40&md5=da7d40236012bb75ad718484622eaf6a
+
+DOI: 10.1167/iovs.06-1103
+ABSTRACT: PURPOSE. Åland Island eye disease (AIED), also known as Forsius-Eriksson syndrome, is an X-linked recessive retinal disease characterized by a combination of fundus hypopigmentation, decreased visual acuity, nystagmus, astigmatism, protan color vision defect, progressive myopia, and defective dark adaptation. Electroretinography reveals abnormalities in both photopic and scotopic functions. The gene locus for AIED has been mapped to the pericentromeric region of the X-chromosome, but the causative gene is unknown. The purpose of this study was to identify the mutated gene underlying the disease phenotype in the original AIED-affected family. METHODS. All exons of the CACNA1F gene were studied by DNA sequencing. CACNA1F mRNA from cultured lymphoblasts was analyzed by RT-PCR and cDNA sequencing. RESULTS. A novel deletion covering exon 30 and portions of flanking introns of the CACNA1F gene was identified in patients with AIED. Results from expression studies were consistent with the DNA studies and showed that mRNA lacked exon 30. The identified in-frame deletion mutation is predicted to cause a deletion of a transmembrane segment and an extracellular loop within repeat domain IV, and consequently an altered membrane topology of the encoded α1- subunit of the Cav1.4 calcium channel. CONCLUSIONS. Mutations in CACNA1F are known to cause the incomplete form of X-linked congenital stationary night blindness (CSNB2). Since the clinical picture of AIED is quite similar to CSNB2, it has long been discussed whether these disorders are allelic or form a single entity. The present study clearly indicates that AIED is also caused by a novel CACNA1F gene mutation. Copyright © Association for Research in Vision and Ophthalmology.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Fryberg, S.A., Markus, H.R.
+14071403200;7102054574;
+Cultural models of education in American Indian, Asian American and European American contexts
+(2007) Social Psychology of Education, 10 (2), pp. 213-246. Cited 86 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-34250157380&doi=10.1007%2fs11218-007-9017-z&partnerID=40&md5=cc730cfce978fb9fbb8aed5471494738
+
+DOI: 10.1007/s11218-007-9017-z
+ABSTRACT: Three studies examined models of education among American Indian (AI), Asian American (AA), and European American (EA) students. Cultural models of education are patterns of ideas and practices relevant to schools, teachers, and self that mediate and regulate behavior in the academic domain. In study 1, mainstream university students (N = 148) and AI University students (N = 187) viewed education as a tool for success. AI, however, generated more mentions of education as a tool for community success and more negative associations to education. Study 2 (N = 166) showed that AI, in contrast to EA and AA, placed family and community concerns ahead of academic concerns. In Study 3 (N = 118), AI and AA endorsed independent and interdependent representations of self, while EA endorsed only independent representations. For AI and AA, but not for EA, interdependent representations were positively related to trust for teacher. © Springer Science+Business Media B.V. 2007.
+AUTHOR KEYWORDS: Achievement;  Cognition;  Cultural models;  Cultural psychology;  Self
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Baker, R.S.J.D., Corbett, A.T., Koedinger, K.R.
+8967971100;7103276304;6603678234;
+The difficulty factors approach to the design of lessons in intelligent tutor curricula
+(2007) International Journal of Artificial Intelligence in Education, 17 (4), pp. 341-369. Cited 17 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85013581224&partnerID=40&md5=b8dd641a6703cd5ffa478c9da98f06c1
+
+ABSTRACT: We present an approach to designing intelligent tutoring systems, termed the Difficulty Factors Approach. In this approach, the designer investigates, at each iteration of the design cycle, which skills and concepts are difficult for students, and what factors underlie those difficulties. We show that this approach complements existing design principles, producing data that helps designers apply principles in context. We also show that by continuing to investigate student difficulties throughout the design process, it is possible to discover difficulty factors initially obscured by other difficulty factors. We give an example of the application of the Difficulty Factors Approach in the context of the development of a cognitive tutor lesson on scatterplots. © 2007 - IOS Press and the authors.
+AUTHOR KEYWORDS: Difficulty factors assessments;  Evaluation of AIED systems;  Instructional design principles;  Intelligent tutoring systems
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Neil, A.L., Gordon, M.T.
+7005371076;7402801052;
+Construction of the Australian Inpatient Export Database (AIED).
+(2007) Australian health review : a publication of the Australian Hospital Association, 31 (4), pp. 546-556.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-38449088933&doi=10.1071%2fAH070546&partnerID=40&md5=19c4472392c0e41623c6811322149c5a
+
+DOI: 10.1071/AH070546
+ABSTRACT: OBJECTIVE: To establish a database of exports by Australian acute health care institutions for the period in which exports were first promoted. METHOD: Hospital morbidity data for patients resident overseas (Group A) and Medicare ineligible patients resident in Australia (Group B) were sought for the period 1983-84 to 1995-96 from each state and territory health department. Private hospital permission was obtained for the release of identifiable private hospital data. RESULTS: Data were coalesced into a relational database covering the period 1987-88 to 1995-96. Coding variations between and within jurisdictions over time necessitated the development of a consistent coding mechanism. Group A and Group B patients gave rise to at least 77,568 separations over the period 1987-88 to 1995-96. Of these separations 58,418 (75.3%) should have generated export income and another 10,158 separations (13.1%) were likely to have generated export income. Definite export separations not for dialysis number 52,573, and these form the AIED. CONCLUSION: An Australian database of inpatient exports, the AIED, encompassing public and private hospital data has been established for the period 1987-88 to 1995-96. The problems encountered in the course of this study emphasise the desirability of maintaining an adequately resourced national repository for health statistics.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Bronze
+SOURCE: Scopus
+
+Zouaq, A., Nkambou, R., Frasson, C.
+14049497000;22433265700;7003506234;
+Building domain ontologies from text for educational purposes
+(2007) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 4753 LNCS, pp. 393-407. Cited 8 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-38349009204&doi=10.1007%2f978-3-540-75195-3_28&partnerID=40&md5=28bf6ce285a4e72a7dfeff18a9ae2ca8
+
+DOI: 10.1007/978-3-540-75195-3_28
+ABSTRACT: In this paper, we present a (semi) automatic framework that aims to produce a domain concept map (DCM) from text and to derive a domain ontology from this concept map. This methodology targets particularly the educational field because of the need of such structures (Ontologies and CM) within the e-Learning and AIED communities to sustain the production of e-Learning resources tailored to learner's needs. This paper details the steps that transform textual resources (and particularly textual learning objects) into a domain concept map and explains how this abstract structure is transformed into a more formal domain ontology. The paper also shows how these structures make it possible to bridge the gap between e-learning standard learning objects and Intelligent Tutoring Systems. © Springer-Verlag Berlin Heidelberg 2007.
+AUTHOR KEYWORDS: Domain concept map;  Domain ontology;  e-Learning;  Intelligent tutoring systems;  Knowledge extraction from text
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Maton, T., Butraporn, P., Kaewkangwal, J., Fungladda, W.
+6508194212;6602377084;6504315483;6603198894;
+Avian influenza protection knowledge, awareness, and behaviors in a high-risk population in Suphan Buri Province, Thailand
+(2007) Southeast Asian Journal of Tropical Medicine and Public Health, 38 (3), pp. 560-568. Cited 11 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-34547362500&partnerID=40&md5=3ab40db40caf632a78bd8f10c68408b5
+
+ABSTRACT: Avian influenza (AI) had outbreaks in Thailand from January 2004 to December 2005, which resulted in 22 human cases, and 14 deaths. Three confirmed cases were reported in Suphan Buri Province in 2004, one of whom died. A cross-sectional study aimed to investigate knowledge, attitudes, and practices about AI in Song Phi Nong District of Suphan Buri Province. Most of the respondents had moderate levels of knowledge. Most of their attitudes towards and practices of the prevention and control of AI were also appropriate. However, the peoples' knowledge about major signs and symptoms of AI was limited. The study suggested that those who had received information from media had better attitudes towards and practices of AI prevention and control, compared with those who had not received information from media. Therefore, the media played an important role in improving knowledge, attitudes, and behaviors; but for the better protection from AI, continuing health education will be necessary in Thailand.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kamikawa, L., Bombonato, P.P.
+16238543500;14036990700;
+Ultrasonography of abdominal aorta and its branches in dogs [Ultra-sonografia da aorta abdominal e de seus ramos em cães]
+(2007) Ciencia Rural, 37 (2), pp. 412-417. Cited 9 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-34247372275&doi=10.1590%2fs0103-84782007000200018&partnerID=40&md5=9642997e886ee3be2935b5ab5879d65c
+
+DOI: 10.1590/s0103-84782007000200018
+ABSTRACT: A duplex ultrasound system incorporating a pulsed wave Doppler ultrasound probe with conventional B-mode real-time imaging was used to evaluate the biometric and the hemodynamic of abdominal aorta and external iliac arteries of a hundred and thirty one normal dogs. Results of biometrics of abdominal aorta, presented a mean diameter of 0.80cm in its diaphragmatic segment (AOD); 0.74cm in its segment caudal to the renal arteries (AOR) and 0.69cm in the segment cranial to its termination (AOT). The right-external-iliac artery (AIED) presented a mean diameter of 0.42cm and the left-external iliac artery (AIEE) a mean diameter of 0.39cm. The hemodynamic study of the abdominal aorta presented a medium systolic peak velocity to AOR of 104cm per sec.; to AOT of 99.61cm per sec.; to AIED of 85.47cm per sec. and to AIEE of 99.51cm per sec. Correlations of different intensities between the vascular diameters have been verified between the measured points and the corporeal biometric factors (Crown Rump-Lenght). Low correlations have been observed regarding the diameters in relation to the age.
+AUTHOR KEYWORDS: Aorta;  Dogs;  Ultrasonography
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access, Gold, Green
+SOURCE: Scopus
+
+Phon-Amnuaisuk, S., Smaill, A., Wiggins, G.
+13607919000;6603005852;14032393700;
+Chorale harmonization: A view from a search control perspective
+(2006) Journal of New Music Research, 35 (4), pp. 279-305. Cited 13 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-77951695780&doi=10.1080%2f09298210701458835&partnerID=40&md5=8dfb29707334fbe98ddb50411405ecd6
+
+DOI: 10.1080/09298210701458835
+ABSTRACT: Chorale harmonization is one of the most popular problem domains for AI-music researchers. The problem has been approached with various techniques ranging from a knowledge intensive approach on one end to a data intensive approach on the other end. Various approaches offer different strengths and pose different weaknesses. In this report, we explain our knowledge intensive approach. Here, we view chorale harmonization from a search control perspective. In this perspective, the harmonization activities are discretely captured as states. These states form a state space, which cannot be exhaustively examined since it is intractable by nature. To overcome the intractability problem, we propose a careful knowledge engineering approach. The approach offers a useful language specialized for the chorale harmonization task. This language controls the search at the meta-level through its three primitives, namely: rules, tests and measures. The harmonization outputs obtained from this method are very promising. The approach also offers a very promising application in the AI-education area. © 2006 Taylor & Francis.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Chan, T.-W., Chen, F.-C., Chou, C.-Y.
+56071786800;7404908149;13310080700;
+Profile enhanced classroom learning
+(2006) Proceedings - Fourth IEEE International Workshop on Wireless, Mobile and Ubiquitous Technology in Education, WMUTE 2006, art. no. 4032512, pp. 3-9. Cited 9 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-38949091334&doi=10.1109%2fWMTE.2006.261335&partnerID=40&md5=8ea1ca9bf6e42bddaf24ba11c2f3bf8e
+
+DOI: 10.1109/WMTE.2006.261335
+ABSTRACT: The purpose of this talk is twofold. First, we argue, with extension of some of our previous work, that there are three research avenues of wireless, mobile, and ubiquitous technology enhanced learning, namely, dream-based research, adoption-based research, and humanity-based research. They are one after the other in time and overlapping in content. Humanity-based research strives for a long term research goal for supporting human learning with the primary concern on individuality, personal developmental potential, and the like, whether the student learns individually or socially. Second, we argue that in order to proceed to humanity-based research, we need to harness and revisit research on student modeling which is the central theme of the current artificial intelligence in education research. In particular, profile enhanced classroom learning (PECL) in a one-to-one classroom, a classroom where every student learns with at least a wireless enabled handy computing device, is an important step towards the humanity-based research avenue. Furthermore, PECL broadens the scopes of both artificial intelligence in education and computer supported collaborative learning and serves as a platform for the design and investigation of game-based learning in classroom settings. We shall illustrate some sample prototypes of PECL in this talk. © 2006 IEEE.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Dodds, Z., Tribelhorn, B.
+6602320783;10241681600;
+Erdos: Cost-effective peripheral robotics for AI education
+(2006) Proceedings of the National Conference on Artificial Intelligence, 2, pp. 1966-1967. Cited 3 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-33750687845&partnerID=40&md5=92c55ce75714a938373d39a50cdda188
+
+ABSTRACT: This work combines hardware, software, and curricula in order to create robots capable enough to advance the field of AI yet inexpensive enough to be widely accessible. Costs are kept low by pairing iRobot's roombas with existing laptop or palmtop computers and their accessories. The result is a sub-$200 untethered physical platform capable of running and testing state-of-the-art AI algorithms. Copyright © 2006, American Association for Artificial Intelligence (www.aaai.org). All rights reserved.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Berti, A., Fizzotti, C., Maberino, C., Zanelli, E.
+7005212283;8587149600;6506480499;57198361847;
+The impact of stalking on victims: An epidemiological study in the city of Genoa [Impatto dello stalking sulle vittime: Rilievo epidemiologico sul fenomeno nella città di Genova]
+(2006) Rivista di Psichiatria, 41 (4), pp. 241-249. Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-33748773052&partnerID=40&md5=cf1ff97a41bde4ed0456f73c4a3b616c
+
+ABSTRACT: Introduction. The Authors present their epidemiological and clinical observations from a poll that has been made to improve the visibility of stalking in the city of Genoa. Materials and Methods. Data have been obtained with a questionnaire that has been distributed to the population by the Clinica Psichiatrica of San Martino Hospital and AIED (Associazione Italiana per l'Educazione Demografica). The Authors have analysed victims' charactheristics (age, sex, education, job, marital status) and troubles' characteristics (duration, kind, dangerousness) and they have compared the data with the international literature. Discussion. They have also analysed the level of acquaintance between stalker and victim and the possible reactions of the victim against stalker (avoidance strategies, involvement of legal authorities or medical specialist). The victims themselves have indicated the psychological consequences of stalking: this fact has allowed to recognize psychopatological patterns like Adaptation Disorders and Post-Traumatic Stress Disorder. Conclusion. So, the role of psychiatrist is not only to intervene when he can recognize those pathologies, but also to separate the persons who were in a good psycho-fisical balance from the others who had well-compensated behavoiural disorders or were carriers of evident behavioural disorders before stalking.
+AUTHOR KEYWORDS: Stalking
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Luckin, R., Underwood, J., Du Boulay, B., Holmberg, J., Kerawalla, L., O’Connor, J., Smith, H., Tunley, H.
+35608174500;22434161200;6602083684;8879904400;15065422900;57193399372;55105144700;16168475300;
+Designing educational systems fit for use: A case study in the application of human centred design for AIED
+(2006) International Journal of Artificial Intelligence in Education, 16 (4), pp. 353-380. Cited 19 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85013621305&partnerID=40&md5=73ee8aa6186fd32c529446f25fda6e1b
+
+ABSTRACT: Designing new educational experiences, which utilize novel technologies, are usable by teachers and learners and integrate well into existing, everyday educational contexts is extremely difficult. In this paper we describe the process of Human Centred Design as a cyclic process of evolution. An initial system design vision is communicated to a range of stakeholders and revised as informed by feedback from these users to produce a modified vision. A cycle of presentations of the vision and modifications lead to the creation of system prototypes that are increasingly grounded in a genuine understanding of user needs and context. The latter stages of this process employ contextually evaluated semi-functional and functional prototypes, associated documentation and an iteratively refined framework for data capture and analysis. We use the HOMEWORK system development as a case study to demonstrate the use of this approach and to illustrate the benefits that user involvement in the design process can bring to bear upon the development of an Interactive Learning Environment. We describe the type of methodology that can help designers to reap these benefits and the resource implications arising from this work. We conclude that the key output from the design process at each phase is more than the latest version of the system prototype and a modified system vision; it is also the analytical methodology that has been iteratively developed in parallel to the system software. It is this meta level analytical map that can add rigor to the design process and help to make the findings generalise beyond the particular users involved in the design process. © 2006 - IOS Press and the authors.
+AUTHOR KEYWORDS: Context;  Home-school links;  Mobile technology;  Numeracy;  Scaffolding;  Socio-cultural theory
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Litman, D.J., Rosé, C.P., Forbes-Riley, K., VanLehn, K., Bhembe, D., Silliman, S.
+7004334087;8097137900;13006721900;6603878078;8713983400;36725504100;
+Spoken versus typed human and computer dialogue Tutoring
+(2006) International Journal of Artificial Intelligence in Education, 16 (2), pp. 145-170. Cited 65 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85013590326&partnerID=40&md5=2270eeecb2f4c663c8c9a57be6b3a391
+
+ABSTRACT: While human tutors typically interact with students using spoken dialogue, most computer dialogue tutors are text-based. We have conducted two experiments comparing typed and spoken tutoring dialogues, one in a human-human scenario, and another in a human-computer scenario. In both experiments, we compared spoken versus typed tutoring for learning gains and time on task, and also measured the correlations of learning gains with dialogue features. Our main results are that changing the modality from text to speech caused changes in the learning gains, time and superficial dialogue characteristics of human tutoring, but for computer tutoring it made less difference. © 2006 - IOS Press and t he authors.
+AUTHOR KEYWORDS: Dialogue;  Evaluation of AIED systems;  Intelligent tutoring systems;  Natural language interfaces for instructional systems;  Spoken language interface
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Warne, D.
+22136549000;
+Research and Educational Approaches to Reducing Health Disparities Among American Indians and Alaska Natives
+(2006) Journal of Transcultural Nursing, 17 (3), pp. 266-271. Cited 28 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-33745048303&doi=10.1177%2f1043659606288381&partnerID=40&md5=7cdb0dea767ddac3360de185673fd790
+
+DOI: 10.1177/1043659606288381
+ABSTRACT: Research and educational programs have the potential to improve health care. American Indians (AIs) suffer from considerable health disparities as compared with the general U.S. population, including significantly higher incidence and prevalence of preventable diseases like diabetes, alcoholism, and their complications. Underfunding of health programs, including the Indian Health Service, and lower socioeconomic status among AIs contribute to these disparities. Improvements in disease prevention and treatment potentially offered by research and health education programs could help to reduce health disparities. However, a history of nonparticipation in the research process and a history of dishonest research practices have raised barriers to conducting research in AI communities. Additional barriers are generated from a shortage of AI researchers and health care professionals. A research paradigm that includes the community as a full partner is necessary to promote research and education in AI communities and to translate health research into reductions in health disparities. © 2006, Sage Publications. All rights reserved.
+AUTHOR KEYWORDS: Alaska;  American Indians;  health disparities
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Hayashi, Y., Ikeda, M.
+57208611831;55203451300;
+Knowledge level design support for adaptive learning contents - Ontological consideration on knowledge level structure of SCORM2004 contents
+(2005) CEUR Workshop Proceedings, 143, 4 p.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84883480788&partnerID=40&md5=e1fbead4dae56c13e7de9ca5e6b95c6d
+
+ABSTRACT: This paper discusses learning contents design from the viewpoint of knowledge level and symbol level. The purpose of study is to develop a foundation for share and reuse of IESs on a global platform. SCORM2004 is becoming de facto standard so we choice it as the basis of the platform. On the platform we aim to build an environment for authors to clarify pedagogical meaning of learning contents based an ontology for IESs. This approach will allow us to share and reuse academic and technical expertise in the field of AIED research on common platform.
+AUTHOR KEYWORDS: Intelligent educational system;  Learning content design;  Ontology;  SCORM2004
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Yang, F.-J.
+16641582200;
+An analogy-based heuristic toward linear recursive solutions
+(2005) Proceedings of the 2005 International Conference on Artificial Intelligence, ICAI'05, 2, pp. 970-973.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-60749103181&partnerID=40&md5=d386c88032bc9cc2c45a74e503d3702b
+
+ABSTRACT: Heuristics play an important role in guiding the reasoning and confining the search area of a solution. The study of mental models in the domain of recursions showed that misconceptions are commonly happened among novices. It, thus, becomes an important research issue of how to convey the recursive concept more correctly and efficiently to students. To embark on this research, I focus on linear recursions first and leave multiple recursions for future study. In this paper, I presented a heuristic method to help learners discover linear recursive solutions for themselves.
+AUTHOR KEYWORDS: AI in education;  Analogical instruction;  Heuristic;  Linear recursion
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Zhang, J., Ren, F., Chen, T.
+55810548400;7202066506;56143941500;
+Intelligent Tutoring Systems: Research status and its development in China
+(2005) Proceedings of 2005 IEEE International Conference on Natural Language Processing and Knowledge Engineering, IEEE NLP-KE'05, 2005, art. no. 1598823, pp. 683-689. Cited 4 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-33748150694&doi=10.1109%2fNLPKE.2005.1598823&partnerID=40&md5=3b376ac55398c9ba701058a65bda3d08
+
+DOI: 10.1109/NLPKE.2005.1598823
+ABSTRACT: The first application of Artificial Intelligence (AI) to education has been to build Intelligent Tutoring Systems (ITS). With the development of modern information technologies, ITS has been increasingly applied in education more and more widely. The applications of ITS in education have been changing the traditional instructional model and making learning more effective and meaningful. In this paper, the definition architecture and characteristics of ITS, some typical ITS and the current status, as well as its research focus of ITS are presented. Then the current research and applications of ITS in China are introduced. In the end, the paper discusses the future development of ITS. © 2005 IEEE.
+DOCUMENT TYPE: Conference Paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Wu, Z.-X., Xue, Y.-M., Li, C.-Z., Guan, M.-P.
+7501413654;8618746900;7501683224;7005411822;
+Advanced oxidation protein products in diabetic nephropathy patients and its relation with superoxide dismutase, glutathione peroxidase, neopterin
+(2005) Journal of Central South University (Medical Sciences), 30 (6), pp. 704-707. Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-30744463261&partnerID=40&md5=f74661112cee35e423adb170a95d8f0a
+
+ABSTRACT: Objective: To determine the changes of advanced oxidation protein products (AOPP) in diabetic nephropathy (DN) patients, as well as its relationship with superoxide dismutase (SOD), glutathione peroxidase (GPx) and neopterin (NPT). Methods: By the concentration of urinary albumin excretion rate (UAER) and creatinine (Cr), 85 diabetes mellitus (DM) patients were divided into 4 groups as non-DN group (DM), early-staged DN group (DN3), significant DN group (DN4) and end-staged DN group (DN5). The concentration of the serum AOPP was measured by ameliorated method introduced by Wikto-Sarsat, while SOD by Xanthine oxidase test, GPx by [5,5′Dithio-bis (2-Nitrobenzoic aied)] (DTNB) reaction test and NPT by ELISA. Results: AOPP in Group DN5 [(117.8 ± 64.8) μmol/L] and Group DN4 [(80.0 ± 23.0) μmol/L] were significantly higher than those in Group DM [(58.2 ± 17.7) μmol/L]. There was no significant difference of AOPP between Group DN3 [(72.7 ± 17.2) μmol/L] and Group DM. Serum AOPP negatively correlated with SOD and GPx(r= -0.217 and -0.374 respectively, P < 0.05), while positively correlated with NPT (r = 0.499, P < 0.01). Conclusion: DN patient has enhanced protein oxidation than DM patient, which is related to oxidative stress and chronic inflammation in DN.
+AUTHOR KEYWORDS: Advanced oxidation protein products;  Diabetic nephropathy;  Glutathione peroxidase;  Neopterin;  Superoxide dismutase
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Roushdy, M., Salem, A.-B.M.
+36903823300;36762342200;
+Case-Based and ontology learning approaches for developing e-Learning systems
+(2005) WSEAS Transactions on Information Science and Applications, 2 (6), pp. 795-804. Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-22944478668&partnerID=40&md5=5203a339e68d820d83e4e4ad3a31c310
+
+ABSTRACT: This paper discusses the recent approaches for developing intelligent e-Learning systems. The paper presents Case Based Reasoning (CBR) and Ontology learning methodologies. These approaches address the problems found in the developing of learning, teaching and training systems, e.g. the problems of knowledge acquisition, representation, remembering, robust and maintenance. CBR receives increasing attention within the artificial intelligence in education community due to its ability for reasoning from experiences (old cases) in an effort to solve problems, critique solutions and explain anomalous situations. Ontology approach plays a crucial role in the learning process of the agent, as it is used as the generalization hierarchy for learning. However, this ontology is itself incomplete and partially is correct and will have to be improved during the teaching of the agent. The paper discusses the CBR and Ontology methodologies, the research issues and technical aspects of implementing effective intelligent e-learning systems. Some examples of successful applications in different domains are also given in the paper.
+AUTHOR KEYWORDS: Artificial intelligence;  Case-based reasoning;  Intelligent e-learning;  Intelligent tutoring systems;  Ontology learning
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Rajasingham, L.
+6503977119;
+E-Learning: The Vision Beyond Current Norms and Processes in Higher Education
+(2005) International Journal of Information and Communication Technology Education (IJICTE), 1 (4), pp. 1-12.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85001717022&doi=10.4018%2fjicte.2005100101&partnerID=40&md5=2c755233c044880ba11b18342bc5ab46
+
+DOI: 10.4018/jicte.2005100101
+ABSTRACT: This paper explores a new higher education paradigm, given the changing environment that will come with the advance of globalization and the rapid development of the Internet. As economies revolve around a global network and the value of knowledge, societies rely on universities to help shape future education in an emerging knowledge society. As teachers are already finding that they need to adapt to the presence of the Internet, university managers and administrators will need to adapt their structures, strategies, procedures, and programs to deal with the processes of globalization. Based on international research, this paper presents a vision and a paradigm from which higher education might be constructed. The Sloan-C's Five Pillars to improve online learning and new applications, HyperReality and Croquet, are examined as potential platforms to reframe future developments. © 2005, IGI Global. All rights reserved.
+AUTHOR KEYWORDS: AI in education;  Croquet;  e-learning;  globalization;  globalization curriculum;  HyperClass;  HyperReality;  JITAITS;  Sloan-C Five Pillars
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Hingorani, A.J.
+57225342929;
+Cognitive Impairment and Decline Are Associated With Carotid Artery Disease in Patients Without Clinically Evident Cerebrovascular Disease
+(2005) Perspectives in Vascular Surgery and Endovascular Therapy, 17 (2), pp. 174-175.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84992885199&doi=10.1177%2f153100350501700224&partnerID=40&md5=cc29c7e5a4f74335df913f18b647e90e
+
+DOI: 10.1177/153100350501700224
+ABSTRACT: The authors conducted a study to determine if left carotid artery disease compared with right carotid artery disease is associated With cognitive impairment as determined on the Mlodi aied Miini-Mlental State Examination. Duplex ultrasonography wsJas used to assess internal carotid artery stenosis and intinamedia thickness of the com mon carotid artery in 4.006 rioht-handedr men and women without a history of stroke, transiert ischernic attack, or carotid endarterectomy. Stenosis f 503 to r greater of the left internal carotid was associated with cognitive impairment in 32 patients. After statistical evaluat on, the authors concluded that high-grade stenosis of the left internal carotid artery is associated w th cogn tive impairment ano decline but the persistence of the associaton. after ad ustment for right-sided stenosis, is not due to vascular risk factors or atherosc erosis. © 2005, Westminster Publications, Inc. All rights reserved.
+AUTHOR KEYWORDS: cerebrovascular disease;  cogritive impairment;  left carotid aartery disease
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Chai, L., Gao, Y., Gu, Z.Y., Ni, D.F.
+36723552300;57198715815;54889623200;7006863383;
+[Apoptosis and apoptosis-related genes in experimental autoimmune inner ear disease].
+(2005) Zhonghua er bi yan hou tou jing wai ke za zhi = Chinese journal of otorhinolaryngology head and neck surgery, 40 (8), pp. 561-565. Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-79952469631&partnerID=40&md5=74448164ba861ae8c14fd41808bb5aa0
+
+ABSTRACT: To investigate the protein and mRNA expression patterns of apoptosis-related genes, together with evidence of apoptosis, in relation to experimental autoimmune inner ear disease (AIED). Male C57BL/6 mice at 4 weeks age (n = 80) were randomly assigned to one of the five group (n = 16). The inbred mice were given a single subcutaneous injection of diluted solution of pertussis and an emulsion containing equal parts of complete Freund adjuvant (CFA) and inner ear antigens (IEAg) extracted form guinea pig. The animals were sacrificed for inner ear examination at a defined time after the immunization (7, 14, 21 or 28 days). An autoimmune inner ear diseases model was established. Apoptosis was detected by terminal deoxynucleotidyl transferase (TdT)-mediated deoxyuridine triphosphate (d-UTP) nick end-laying (TUNEL) method. Using immunohistochemical techniques and reverse transcriptase polymerase chain reaction to clarify the profile of Fas, FasL, and bcl-2. Under normal conditions, no TUNEL-positive cell was observed in the cochlea except for a few positive cells in the supporting cells of Corti's organ and macula sacculi. Inner ear antigens administration induced TUNEL-positive reactions in a wide variety of cells such as inner hair cells, supporting cells, stria vascularis and spiral ligament fibrocytes. No positive staining was evident in outer hair cells, spiral ganglion cells and Scarpa's ganglion cells during the whole period. Fas proteins were expressed in a wide range of cells in inner ear. The levels of Fas mRNA were no significant differences between normal and AIED mice. FasL and bcl-2 proteins could be detected in spiral ganglion cells and Scarpa's ganglion cells both in normal and AIED mice. FasL positive cells increased in number in inner ear of AIED mice. bcl-2 positive cells were not detectable in inner hair cells, stria vascularis and spiral ligament both in normal and AIED mice. The mRNA of three kinds of apoptosis-related genes was detectable in the normal and AIED mice. FasL mRNA was expressed at low levels in normal, being maximal at 14 d post inoculation and decreased gradually to steady levels by 2 weeks. The levels of bcl-2 mRNA increased significantly during the period of AIED. Apoptosis mediated by Fas/FasL signal system may play a role in the initiation and maintenance of AIED. bcl-2 has a crucial role in the regulation of the process of apoptosis in the inner ear of AIED mice.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Ikeda, M., Hayashi, Y.
+55203451300;57208611831;
+Knowledge level design support for SCORM2004-conformed learning contents - Ontological consideration on platforms for intelligent educational systems
+(2005) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 3683 LNAI, pp. 1317-1323.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-33745298965&doi=10.1007%2f11553939_183&partnerID=40&md5=ec4a02b943e27d54170d12a818ae42f2
+
